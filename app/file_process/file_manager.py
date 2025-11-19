@@ -1,5 +1,9 @@
 import os
 import re
+import logging
+
+logger = logging.getLogger(__name__)
+
 
 class FileManager:
     """A class for storing and retrieving a filename in a specified file path."""
@@ -18,10 +22,22 @@ class FileManager:
             RuntimeError: If there is a problem reading the file (e.g., it doesn't exist or is inaccessible).
         """
         try:
+            if not os.path.exists(file_path):
+                logger.warning(f"⚠️ Last processed file record not found at: {file_path}")
+                return None
+
             with open(file_path, "r") as f:
-                return f.read().strip()
+                filename = f.read().strip()
+
+            if filename:
+                logger.info(f"📖 Loaded last processed file: {filename}")
+            else:
+                logger.info(f"🕳️ File {file_path} exists but is empty.")
+            return filename
+
         except (OSError, IOError) as e:
-            raise RuntimeError(f"Error reading file {file_path}: {e}")
+            logger.error(f"❌ Error reading file {file_path}: {e}")
+            raise RuntimeError(f"Error reading file {file_path}: {e}") from e
 
     @staticmethod
     def set_last_processed_file(filename: str, file_path: str, filename_pattern: str = r"^[\w\-.]+\.csv$") -> None:
@@ -39,10 +55,20 @@ class FileManager:
             OSError: If there is a problem writing to the file.
         """
         if not re.fullmatch(filename_pattern, filename):
+            logger.error(f"🚫 Invalid filename format: {filename}. Must match pattern: {filename_pattern}")
             raise ValueError(f"Invalid filename format: {filename}. Must match pattern: {filename_pattern}")
 
         try:
+            dir_path = os.path.dirname(file_path)
+            if dir_path and not os.path.exists(dir_path):
+                os.makedirs(dir_path, exist_ok=True)
+                logger.info(f"📂 Created directory for record file: {dir_path}")
+
             with open(file_path, "w") as f:
                 f.write(filename)
+
+            logger.info(f"📝 Updated last processed file: {filename} → {file_path}")
+
         except OSError as e:
+            logger.exception(f"❌ Error writing to file {file_path}: {e}")
             raise OSError(f"Error writing file {file_path}: {e}") from e
