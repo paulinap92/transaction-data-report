@@ -6,7 +6,6 @@ from datetime import datetime
 
 from app.file_process.sales_monitor import SalesMonitor
 
-
 # ==========================================================
 #  extract_date_from_filename
 # ==========================================================
@@ -214,9 +213,7 @@ def test_archive_old_report_copy_exception(tmp_path, caplog, monkeypatch):
         monitor._archive_old_report()
 
     assert "Could not archive previous report" in caplog.text
-import pytest
-from unittest.mock import patch
-from app.file_process.sales_monitor import SalesMonitor
+
 
 def test_sales_monitor_initialization_exception(caplog):
     """Covers: except Exception during SalesMonitor.__post_init__."""
