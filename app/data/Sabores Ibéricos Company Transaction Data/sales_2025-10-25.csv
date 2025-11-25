@@ -1,0 +1,51 @@
+Date,Region,Product Category,Product,Sales
+2025-10-25,South,Carbonated Drink,Carbonated Drink A,1245
+2025-10-25,South,Milkshake,Milkshake C,1077
+2025-10-25,South,Plant-Based Drink,Plant-Based Drink D,1426
+2025-10-25,South,Milkshake,Milkshake B,1066
+2025-10-25,East,Plant-Based Drink,Plant-Based Drink A,1002
+2025-10-25,South,Carbonated Drink,Carbonated Drink A,1010
+2025-10-25,North,Carbonated Drink,Carbonated Drink B,1471
+2025-10-25,North,Carbonated Drink,Carbonated Drink C,923
+2025-10-25,North,Fruit Juice,Fruit Juice D,1225
+2025-10-25,South,Carbonated Drink,Carbonated Drink B,359
+2025-10-25,East,Carbonated Drink,Carbonated Drink C,1430
+2025-10-25,North,Milkshake,Milkshake D,1310
+2025-10-25,East,Fruit Juice,Fruit Juice C,1098
+2025-10-25,South,Carbonated Drink,Carbonated Drink D,1340
+2025-10-25,East,Plant-Based Drink,Plant-Based Drink D,1495
+2025-10-25,South,Diet Drink,Diet Drink D,1399
+2025-10-25,North,Plant-Based Drink,Plant-Based Drink D,1460
+2025-10-25,East,Milkshake,Milkshake C,1208
+2025-10-25,East,Carbonated Drink,Carbonated Drink C,1391
+2025-10-25,South,Diet Drink,Diet Drink C,1049
+2025-10-25,East,Plant-Based Drink,Plant-Based Drink C,1461
+2025-10-25,North,Milkshake,Milkshake C,1247
+2025-10-25,South,Diet Drink,Diet Drink A,1053
+2025-10-25,South,Plant-Based Drink,Plant-Based Drink D,1164
+2025-10-25,North,Functional Beverage,Functional Beverage A,1413
+2025-10-25,East,Fruit Juice,Fruit Juice A,1330
+2025-10-25,South,Diet Drink,Diet Drink D,1085
+2025-10-25,South,Fruit Juice,Fruit Juice C,1206
+2025-10-25,East,Plant-Based Drink,Plant-Based Drink C,1178
+2025-10-25,North,Functional Beverage,Functional Beverage B,1066
+2025-10-25,East,Fruit Juice,Fruit Juice A,1492
+2025-10-25,North,Fruit Juice,Fruit Juice B,1049
+2025-10-25,North,Plant-Based Drink,Plant-Based Drink D,1207
+2025-10-25,East,Milkshake,Milkshake B,1278
+2025-10-25,North,Diet Drink,Diet Drink B,1308
+2025-10-25,North,Plant-Based Drink,Plant-Based Drink B,1194
+2025-10-25,North,Fruit Juice,Fruit Juice D,1354
+2025-10-25,North,Fruit Juice,Fruit Juice B,1401
+2025-10-25,North,Functional Beverage,Functional Beverage B,1214
+2025-10-25,East,Diet Drink,Diet Drink C,976
+2025-10-25,North,Plant-Based Drink,Plant-Based Drink A,1032
+2025-10-25,East,Fruit Juice,Fruit Juice D,992
+2025-10-25,East,Milkshake,Milkshake C,1289
+2025-10-25,North,Carbonated Drink,Carbonated Drink A,354
+2025-10-25,East,Functional Beverage,Functional Beverage C,335
+2025-10-25,North,Milkshake,Milkshake D,1277
+2025-10-25,East,Plant-Based Drink,Plant-Based Drink D,1240
+2025-10-25,South,Milkshake,Milkshake A,936
+2025-10-25,East,Carbonated Drink,Carbonated Drink D,1156
+2025-10-25,East,Plant-Based Drink,Plant-Based Drink D,1404

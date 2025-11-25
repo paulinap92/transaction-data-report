@@ -1,0 +1,1597 @@
+Date,Region,Product,Product Category,Temperature,DayOfWeek,Sales,source_file,is_anomaly
+2025-02-01,North,Coca-Cola,AA,10.7,Saturday,1172,sales_2025-02-01.csv,0
+2025-02-01,North,Fanta,AA,10.7,Saturday,1122,sales_2025-02-01.csv,0
+2025-02-01,North,Sprite,AA,10.7,Saturday,997,sales_2025-02-01.csv,0
+2025-02-01,North,Pepsi,AA,10.7,Saturday,1061,sales_2025-02-01.csv,0
+2025-02-01,North,Golden Milk,AB,10.7,Saturday,1165,sales_2025-02-01.csv,0
+2025-02-01,North,Almond Drink,AB,10.7,Saturday,879,sales_2025-02-01.csv,0
+2025-02-01,North,Oat Latte,AB,10.7,Saturday,1019,sales_2025-02-01.csv,0
+2025-02-01,North,Strawberry Shake,AC,10.7,Saturday,1354,sales_2025-02-01.csv,0
+2025-02-01,North,Chocolate Shake,AC,10.7,Saturday,1204,sales_2025-02-01.csv,0
+2025-02-01,North,Vanilla Shake,AC,10.7,Saturday,1217,sales_2025-02-01.csv,0
+2025-02-01,North,Orange Juice,AD,10.7,Saturday,1111,sales_2025-02-01.csv,0
+2025-02-01,North,Apple Juice,AD,10.7,Saturday,1222,sales_2025-02-01.csv,0
+2025-02-01,North,Mango Juice,AD,10.7,Saturday,1073,sales_2025-02-01.csv,0
+2025-02-01,North,Pepsi Max,AE,10.7,Saturday,1185,sales_2025-02-01.csv,0
+2025-02-01,North,Cola Zero,AE,10.7,Saturday,1186,sales_2025-02-01.csv,0
+2025-02-01,North,Sprite Zero,AE,10.7,Saturday,677,sales_2025-02-01.csv,1
+2025-02-01,North,Kombucha,AF,10.7,Saturday,1121,sales_2025-02-01.csv,0
+2025-02-01,North,Coconut Water,AF,10.7,Saturday,1038,sales_2025-02-01.csv,0
+2025-02-01,North,Isotonic Drink,AF,10.7,Saturday,995,sales_2025-02-01.csv,0
+2025-02-01,South,Coca-Cola,AA,25.2,Saturday,1536,sales_2025-02-01.csv,0
+2025-02-01,South,Fanta,AA,25.2,Saturday,1366,sales_2025-02-01.csv,0
+2025-02-01,South,Sprite,AA,25.2,Saturday,1514,sales_2025-02-01.csv,0
+2025-02-01,South,Pepsi,AA,25.2,Saturday,1344,sales_2025-02-01.csv,0
+2025-02-01,South,Golden Milk,AB,25.2,Saturday,839,sales_2025-02-01.csv,0
+2025-02-01,South,Almond Drink,AB,25.2,Saturday,947,sales_2025-02-01.csv,0
+2025-02-01,South,Oat Latte,AB,25.2,Saturday,784,sales_2025-02-01.csv,0
+2025-02-01,South,Strawberry Shake,AC,25.2,Saturday,980,sales_2025-02-01.csv,0
+2025-02-01,South,Chocolate Shake,AC,25.2,Saturday,930,sales_2025-02-01.csv,0
+2025-02-01,South,Vanilla Shake,AC,25.2,Saturday,972,sales_2025-02-01.csv,0
+2025-02-01,South,Orange Juice,AD,25.2,Saturday,1142,sales_2025-02-01.csv,0
+2025-02-01,South,Apple Juice,AD,25.2,Saturday,1214,sales_2025-02-01.csv,0
+2025-02-01,South,Mango Juice,AD,25.2,Saturday,551,sales_2025-02-01.csv,1
+2025-02-01,South,Pepsi Max,AE,25.2,Saturday,1171,sales_2025-02-01.csv,0
+2025-02-01,South,Cola Zero,AE,25.2,Saturday,1094,sales_2025-02-01.csv,0
+2025-02-01,South,Sprite Zero,AE,25.2,Saturday,1106,sales_2025-02-01.csv,0
+2025-02-01,South,Kombucha,AF,25.2,Saturday,1153,sales_2025-02-01.csv,0
+2025-02-01,South,Coconut Water,AF,25.2,Saturday,1043,sales_2025-02-01.csv,0
+2025-02-01,South,Isotonic Drink,AF,25.2,Saturday,2485,sales_2025-02-01.csv,1
+2025-02-01,East,Coca-Cola,AA,14.6,Saturday,1035,sales_2025-02-01.csv,0
+2025-02-01,East,Fanta,AA,14.6,Saturday,1129,sales_2025-02-01.csv,0
+2025-02-01,East,Sprite,AA,14.6,Saturday,1196,sales_2025-02-01.csv,0
+2025-02-01,East,Pepsi,AA,14.6,Saturday,1180,sales_2025-02-01.csv,0
+2025-02-01,East,Golden Milk,AB,14.6,Saturday,1021,sales_2025-02-01.csv,0
+2025-02-01,East,Almond Drink,AB,14.6,Saturday,1189,sales_2025-02-01.csv,1
+2025-02-01,East,Oat Latte,AB,14.6,Saturday,1051,sales_2025-02-01.csv,0
+2025-02-01,East,Strawberry Shake,AC,14.6,Saturday,1289,sales_2025-02-01.csv,0
+2025-02-01,East,Chocolate Shake,AC,14.6,Saturday,1377,sales_2025-02-01.csv,0
+2025-02-01,East,Vanilla Shake,AC,14.6,Saturday,1129,sales_2025-02-01.csv,0
+2025-02-01,East,Orange Juice,AD,14.6,Saturday,1081,sales_2025-02-01.csv,0
+2025-02-01,East,Apple Juice,AD,14.6,Saturday,1276,sales_2025-02-01.csv,0
+2025-02-01,East,Mango Juice,AD,14.6,Saturday,1098,sales_2025-02-01.csv,0
+2025-02-01,East,Pepsi Max,AE,14.6,Saturday,1200,sales_2025-02-01.csv,0
+2025-02-01,East,Cola Zero,AE,14.6,Saturday,1273,sales_2025-02-01.csv,0
+2025-02-01,East,Sprite Zero,AE,14.6,Saturday,1260,sales_2025-02-01.csv,0
+2025-02-01,East,Kombucha,AF,14.6,Saturday,1113,sales_2025-02-01.csv,0
+2025-02-01,East,Coconut Water,AF,14.6,Saturday,1095,sales_2025-02-01.csv,0
+2025-02-01,East,Isotonic Drink,AF,14.6,Saturday,1065,sales_2025-02-01.csv,0
+2025-02-02,North,Coca-Cola,AA,11.7,Sunday,1218,sales_2025-02-02.csv,0
+2025-02-02,North,Fanta,AA,11.7,Sunday,1184,sales_2025-02-02.csv,0
+2025-02-02,North,Sprite,AA,11.7,Sunday,1069,sales_2025-02-02.csv,0
+2025-02-02,North,Pepsi,AA,11.7,Sunday,1261,sales_2025-02-02.csv,0
+2025-02-02,North,Golden Milk,AB,11.7,Sunday,1076,sales_2025-02-02.csv,0
+2025-02-02,North,Almond Drink,AB,11.7,Sunday,1022,sales_2025-02-02.csv,0
+2025-02-02,North,Oat Latte,AB,11.7,Sunday,1003,sales_2025-02-02.csv,0
+2025-02-02,North,Strawberry Shake,AC,11.7,Sunday,1131,sales_2025-02-02.csv,0
+2025-02-02,North,Chocolate Shake,AC,11.7,Sunday,1229,sales_2025-02-02.csv,0
+2025-02-02,North,Vanilla Shake,AC,11.7,Sunday,1248,sales_2025-02-02.csv,0
+2025-02-02,North,Orange Juice,AD,11.7,Sunday,1100,sales_2025-02-02.csv,0
+2025-02-02,North,Apple Juice,AD,11.7,Sunday,1239,sales_2025-02-02.csv,0
+2025-02-02,North,Mango Juice,AD,11.7,Sunday,1081,sales_2025-02-02.csv,0
+2025-02-02,North,Pepsi Max,AE,11.7,Sunday,1047,sales_2025-02-02.csv,0
+2025-02-02,North,Cola Zero,AE,11.7,Sunday,1269,sales_2025-02-02.csv,0
+2025-02-02,North,Sprite Zero,AE,11.7,Sunday,1168,sales_2025-02-02.csv,0
+2025-02-02,North,Kombucha,AF,11.7,Sunday,984,sales_2025-02-02.csv,0
+2025-02-02,North,Coconut Water,AF,11.7,Sunday,934,sales_2025-02-02.csv,0
+2025-02-02,North,Isotonic Drink,AF,11.7,Sunday,880,sales_2025-02-02.csv,0
+2025-02-02,South,Coca-Cola,AA,26.8,Sunday,1480,sales_2025-02-02.csv,0
+2025-02-02,South,Fanta,AA,26.8,Sunday,729,sales_2025-02-02.csv,0
+2025-02-02,South,Sprite,AA,26.8,Sunday,1585,sales_2025-02-02.csv,0
+2025-02-02,South,Pepsi,AA,26.8,Sunday,1506,sales_2025-02-02.csv,0
+2025-02-02,South,Golden Milk,AB,26.8,Sunday,760,sales_2025-02-02.csv,0
+2025-02-02,South,Almond Drink,AB,26.8,Sunday,785,sales_2025-02-02.csv,0
+2025-02-02,South,Oat Latte,AB,26.8,Sunday,751,sales_2025-02-02.csv,0
+2025-02-02,South,Strawberry Shake,AC,26.8,Sunday,1056,sales_2025-02-02.csv,0
+2025-02-02,South,Chocolate Shake,AC,26.8,Sunday,922,sales_2025-02-02.csv,0
+2025-02-02,South,Vanilla Shake,AC,26.8,Sunday,991,sales_2025-02-02.csv,0
+2025-02-02,South,Orange Juice,AD,26.8,Sunday,1313,sales_2025-02-02.csv,0
+2025-02-02,South,Apple Juice,AD,26.8,Sunday,1415,sales_2025-02-02.csv,0
+2025-02-02,South,Mango Juice,AD,26.8,Sunday,1484,sales_2025-02-02.csv,0
+2025-02-02,South,Pepsi Max,AE,26.8,Sunday,1051,sales_2025-02-02.csv,0
+2025-02-02,South,Cola Zero,AE,26.8,Sunday,1146,sales_2025-02-02.csv,0
+2025-02-02,South,Sprite Zero,AE,26.8,Sunday,998,sales_2025-02-02.csv,0
+2025-02-02,South,Kombucha,AF,26.8,Sunday,1050,sales_2025-02-02.csv,0
+2025-02-02,South,Coconut Water,AF,26.8,Sunday,1172,sales_2025-02-02.csv,0
+2025-02-02,South,Isotonic Drink,AF,26.8,Sunday,1118,sales_2025-02-02.csv,0
+2025-02-02,East,Coca-Cola,AA,18.9,Sunday,3068,sales_2025-02-02.csv,1
+2025-02-02,East,Fanta,AA,18.9,Sunday,1464,sales_2025-02-02.csv,0
+2025-02-02,East,Sprite,AA,18.9,Sunday,1596,sales_2025-02-02.csv,0
+2025-02-02,East,Pepsi,AA,18.9,Sunday,1412,sales_2025-02-02.csv,0
+2025-02-02,East,Golden Milk,AB,18.9,Sunday,895,sales_2025-02-02.csv,0
+2025-02-02,East,Almond Drink,AB,18.9,Sunday,906,sales_2025-02-02.csv,0
+2025-02-02,East,Oat Latte,AB,18.9,Sunday,763,sales_2025-02-02.csv,0
+2025-02-02,East,Strawberry Shake,AC,18.9,Sunday,1035,sales_2025-02-02.csv,0
+2025-02-02,East,Chocolate Shake,AC,18.9,Sunday,893,sales_2025-02-02.csv,0
+2025-02-02,East,Vanilla Shake,AC,18.9,Sunday,975,sales_2025-02-02.csv,0
+2025-02-02,East,Orange Juice,AD,18.9,Sunday,1413,sales_2025-02-02.csv,0
+2025-02-02,East,Apple Juice,AD,18.9,Sunday,1275,sales_2025-02-02.csv,0
+2025-02-02,East,Mango Juice,AD,18.9,Sunday,1361,sales_2025-02-02.csv,0
+2025-02-02,East,Pepsi Max,AE,18.9,Sunday,1183,sales_2025-02-02.csv,0
+2025-02-02,East,Cola Zero,AE,18.9,Sunday,1132,sales_2025-02-02.csv,0
+2025-02-02,East,Sprite Zero,AE,18.9,Sunday,1016,sales_2025-02-02.csv,0
+2025-02-02,East,Kombucha,AF,18.9,Sunday,1074,sales_2025-02-02.csv,0
+2025-02-02,East,Coconut Water,AF,18.9,Sunday,3082,sales_2025-02-02.csv,1
+2025-02-02,East,Isotonic Drink,AF,18.9,Sunday,956,sales_2025-02-02.csv,0
+2025-02-03,North,Coca-Cola,AA,13.2,Monday,1213,sales_2025-02-03.csv,0
+2025-02-03,North,Fanta,AA,13.2,Monday,1260,sales_2025-02-03.csv,0
+2025-02-03,North,Sprite,AA,13.2,Monday,1304,sales_2025-02-03.csv,0
+2025-02-03,North,Pepsi,AA,13.2,Monday,1365,sales_2025-02-03.csv,0
+2025-02-03,North,Golden Milk,AB,13.2,Monday,955,sales_2025-02-03.csv,0
+2025-02-03,North,Almond Drink,AB,13.2,Monday,1031,sales_2025-02-03.csv,0
+2025-02-03,North,Oat Latte,AB,13.2,Monday,1009,sales_2025-02-03.csv,0
+2025-02-03,North,Strawberry Shake,AC,13.2,Monday,1173,sales_2025-02-03.csv,0
+2025-02-03,North,Chocolate Shake,AC,13.2,Monday,1101,sales_2025-02-03.csv,0
+2025-02-03,North,Vanilla Shake,AC,13.2,Monday,1070,sales_2025-02-03.csv,0
+2025-02-03,North,Orange Juice,AD,13.2,Monday,1141,sales_2025-02-03.csv,0
+2025-02-03,North,Apple Juice,AD,13.2,Monday,1165,sales_2025-02-03.csv,0
+2025-02-03,North,Mango Juice,AD,13.2,Monday,1241,sales_2025-02-03.csv,0
+2025-02-03,North,Pepsi Max,AE,13.2,Monday,1219,sales_2025-02-03.csv,0
+2025-02-03,North,Cola Zero,AE,13.2,Monday,1189,sales_2025-02-03.csv,0
+2025-02-03,North,Sprite Zero,AE,13.2,Monday,1128,sales_2025-02-03.csv,0
+2025-02-03,North,Kombucha,AF,13.2,Monday,1156,sales_2025-02-03.csv,0
+2025-02-03,North,Coconut Water,AF,13.2,Monday,1136,sales_2025-02-03.csv,0
+2025-02-03,North,Isotonic Drink,AF,13.2,Monday,1005,sales_2025-02-03.csv,0
+2025-02-03,South,Coca-Cola,AA,20.5,Monday,1159,sales_2025-02-03.csv,0
+2025-02-03,South,Fanta,AA,20.5,Monday,1239,sales_2025-02-03.csv,0
+2025-02-03,South,Sprite,AA,20.5,Monday,1173,sales_2025-02-03.csv,0
+2025-02-03,South,Pepsi,AA,20.5,Monday,1189,sales_2025-02-03.csv,0
+2025-02-03,South,Golden Milk,AB,20.5,Monday,1010,sales_2025-02-03.csv,0
+2025-02-03,South,Almond Drink,AB,20.5,Monday,1057,sales_2025-02-03.csv,0
+2025-02-03,South,Oat Latte,AB,20.5,Monday,1133,sales_2025-02-03.csv,0
+2025-02-03,South,Strawberry Shake,AC,20.5,Monday,1208,sales_2025-02-03.csv,0
+2025-02-03,South,Chocolate Shake,AC,20.5,Monday,1235,sales_2025-02-03.csv,0
+2025-02-03,South,Vanilla Shake,AC,20.5,Monday,1243,sales_2025-02-03.csv,0
+2025-02-03,South,Orange Juice,AD,20.5,Monday,1170,sales_2025-02-03.csv,0
+2025-02-03,South,Apple Juice,AD,20.5,Monday,1051,sales_2025-02-03.csv,0
+2025-02-03,South,Mango Juice,AD,20.5,Monday,1019,sales_2025-02-03.csv,0
+2025-02-03,South,Pepsi Max,AE,20.5,Monday,2301,sales_2025-02-03.csv,1
+2025-02-03,South,Cola Zero,AE,20.5,Monday,1212,sales_2025-02-03.csv,0
+2025-02-03,South,Sprite Zero,AE,20.5,Monday,1239,sales_2025-02-03.csv,0
+2025-02-03,South,Kombucha,AF,20.5,Monday,950,sales_2025-02-03.csv,0
+2025-02-03,South,Coconut Water,AF,20.5,Monday,1084,sales_2025-02-03.csv,0
+2025-02-03,South,Isotonic Drink,AF,20.5,Monday,977,sales_2025-02-03.csv,0
+2025-02-03,East,Coca-Cola,AA,17.1,Monday,1292,sales_2025-02-03.csv,0
+2025-02-03,East,Fanta,AA,17.1,Monday,1315,sales_2025-02-03.csv,0
+2025-02-03,East,Sprite,AA,17.1,Monday,3376,sales_2025-02-03.csv,1
+2025-02-03,East,Pepsi,AA,17.1,Monday,1353,sales_2025-02-03.csv,0
+2025-02-03,East,Golden Milk,AB,17.1,Monday,884,sales_2025-02-03.csv,0
+2025-02-03,East,Almond Drink,AB,17.1,Monday,1054,sales_2025-02-03.csv,0
+2025-02-03,East,Oat Latte,AB,17.1,Monday,870,sales_2025-02-03.csv,0
+2025-02-03,East,Strawberry Shake,AC,17.1,Monday,1101,sales_2025-02-03.csv,0
+2025-02-03,East,Chocolate Shake,AC,17.1,Monday,1076,sales_2025-02-03.csv,0
+2025-02-03,East,Vanilla Shake,AC,17.1,Monday,1022,sales_2025-02-03.csv,0
+2025-02-03,East,Orange Juice,AD,17.1,Monday,1249,sales_2025-02-03.csv,0
+2025-02-03,East,Apple Juice,AD,17.1,Monday,1202,sales_2025-02-03.csv,0
+2025-02-03,East,Mango Juice,AD,17.1,Monday,1259,sales_2025-02-03.csv,0
+2025-02-03,East,Pepsi Max,AE,17.1,Monday,1176,sales_2025-02-03.csv,0
+2025-02-03,East,Cola Zero,AE,17.1,Monday,1251,sales_2025-02-03.csv,0
+2025-02-03,East,Sprite Zero,AE,17.1,Monday,1170,sales_2025-02-03.csv,0
+2025-02-03,East,Kombucha,AF,17.1,Monday,1010,sales_2025-02-03.csv,0
+2025-02-03,East,Coconut Water,AF,17.1,Monday,1025,sales_2025-02-03.csv,0
+2025-02-03,East,Isotonic Drink,AF,17.1,Monday,1062,sales_2025-02-03.csv,0
+2025-02-04,North,Coca-Cola,AA,14.3,Tuesday,1420,sales_2025-02-04.csv,0
+2025-02-04,North,Fanta,AA,14.3,Tuesday,1416,sales_2025-02-04.csv,0
+2025-02-04,North,Sprite,AA,14.3,Tuesday,1293,sales_2025-02-04.csv,0
+2025-02-04,North,Pepsi,AA,14.3,Tuesday,1280,sales_2025-02-04.csv,0
+2025-02-04,North,Golden Milk,AB,14.3,Tuesday,762,sales_2025-02-04.csv,0
+2025-02-04,North,Almond Drink,AB,14.3,Tuesday,903,sales_2025-02-04.csv,0
+2025-02-04,North,Oat Latte,AB,14.3,Tuesday,873,sales_2025-02-04.csv,0
+2025-02-04,North,Strawberry Shake,AC,14.3,Tuesday,1060,sales_2025-02-04.csv,0
+2025-02-04,North,Chocolate Shake,AC,14.3,Tuesday,1112,sales_2025-02-04.csv,0
+2025-02-04,North,Vanilla Shake,AC,14.3,Tuesday,1097,sales_2025-02-04.csv,0
+2025-02-04,North,Orange Juice,AD,14.3,Tuesday,1260,sales_2025-02-04.csv,0
+2025-02-04,North,Apple Juice,AD,14.3,Tuesday,1276,sales_2025-02-04.csv,0
+2025-02-04,North,Mango Juice,AD,14.3,Tuesday,1253,sales_2025-02-04.csv,0
+2025-02-04,North,Pepsi Max,AE,14.3,Tuesday,1158,sales_2025-02-04.csv,0
+2025-02-04,North,Cola Zero,AE,14.3,Tuesday,918,sales_2025-02-04.csv,1
+2025-02-04,North,Sprite Zero,AE,14.3,Tuesday,1125,sales_2025-02-04.csv,0
+2025-02-04,North,Kombucha,AF,14.3,Tuesday,1050,sales_2025-02-04.csv,0
+2025-02-04,North,Coconut Water,AF,14.3,Tuesday,1034,sales_2025-02-04.csv,0
+2025-02-04,North,Isotonic Drink,AF,14.3,Tuesday,1042,sales_2025-02-04.csv,0
+2025-02-04,South,Coca-Cola,AA,25.1,Tuesday,3302,sales_2025-02-04.csv,1
+2025-02-04,South,Fanta,AA,25.1,Tuesday,1580,sales_2025-02-04.csv,0
+2025-02-04,South,Sprite,AA,25.1,Tuesday,1474,sales_2025-02-04.csv,0
+2025-02-04,South,Pepsi,AA,25.1,Tuesday,1426,sales_2025-02-04.csv,0
+2025-02-04,South,Golden Milk,AB,25.1,Tuesday,873,sales_2025-02-04.csv,0
+2025-02-04,South,Almond Drink,AB,25.1,Tuesday,881,sales_2025-02-04.csv,0
+2025-02-04,South,Oat Latte,AB,25.1,Tuesday,823,sales_2025-02-04.csv,0
+2025-02-04,South,Strawberry Shake,AC,25.1,Tuesday,988,sales_2025-02-04.csv,0
+2025-02-04,South,Chocolate Shake,AC,25.1,Tuesday,1015,sales_2025-02-04.csv,0
+2025-02-04,South,Vanilla Shake,AC,25.1,Tuesday,1036,sales_2025-02-04.csv,0
+2025-02-04,South,Orange Juice,AD,25.1,Tuesday,1375,sales_2025-02-04.csv,0
+2025-02-04,South,Apple Juice,AD,25.1,Tuesday,1315,sales_2025-02-04.csv,0
+2025-02-04,South,Mango Juice,AD,25.1,Tuesday,1235,sales_2025-02-04.csv,0
+2025-02-04,South,Pepsi Max,AE,25.1,Tuesday,1061,sales_2025-02-04.csv,0
+2025-02-04,South,Cola Zero,AE,25.1,Tuesday,1221,sales_2025-02-04.csv,0
+2025-02-04,South,Sprite Zero,AE,25.1,Tuesday,1171,sales_2025-02-04.csv,0
+2025-02-04,South,Kombucha,AF,25.1,Tuesday,2032,sales_2025-02-04.csv,1
+2025-02-04,South,Coconut Water,AF,25.1,Tuesday,1049,sales_2025-02-04.csv,0
+2025-02-04,South,Isotonic Drink,AF,25.1,Tuesday,1103,sales_2025-02-04.csv,0
+2025-02-04,East,Coca-Cola,AA,13.2,Tuesday,1033,sales_2025-02-04.csv,0
+2025-02-04,East,Fanta,AA,13.2,Tuesday,1055,sales_2025-02-04.csv,0
+2025-02-04,East,Sprite,AA,13.2,Tuesday,1047,sales_2025-02-04.csv,0
+2025-02-04,East,Pepsi,AA,13.2,Tuesday,1139,sales_2025-02-04.csv,0
+2025-02-04,East,Golden Milk,AB,13.2,Tuesday,965,sales_2025-02-04.csv,0
+2025-02-04,East,Almond Drink,AB,13.2,Tuesday,1003,sales_2025-02-04.csv,0
+2025-02-04,East,Oat Latte,AB,13.2,Tuesday,968,sales_2025-02-04.csv,0
+2025-02-04,East,Strawberry Shake,AC,13.2,Tuesday,1203,sales_2025-02-04.csv,0
+2025-02-04,East,Chocolate Shake,AC,13.2,Tuesday,1299,sales_2025-02-04.csv,0
+2025-02-04,East,Vanilla Shake,AC,13.2,Tuesday,1178,sales_2025-02-04.csv,0
+2025-02-04,East,Orange Juice,AD,13.2,Tuesday,1151,sales_2025-02-04.csv,0
+2025-02-04,East,Apple Juice,AD,13.2,Tuesday,1081,sales_2025-02-04.csv,0
+2025-02-04,East,Mango Juice,AD,13.2,Tuesday,1103,sales_2025-02-04.csv,0
+2025-02-04,East,Pepsi Max,AE,13.2,Tuesday,1249,sales_2025-02-04.csv,0
+2025-02-04,East,Cola Zero,AE,13.2,Tuesday,1196,sales_2025-02-04.csv,0
+2025-02-04,East,Sprite Zero,AE,13.2,Tuesday,1298,sales_2025-02-04.csv,0
+2025-02-04,East,Kombucha,AF,13.2,Tuesday,941,sales_2025-02-04.csv,0
+2025-02-04,East,Coconut Water,AF,13.2,Tuesday,997,sales_2025-02-04.csv,0
+2025-02-04,East,Isotonic Drink,AF,13.2,Tuesday,941,sales_2025-02-04.csv,0
+2025-02-05,North,Coca-Cola,AA,14.9,Wednesday,1374,sales_2025-02-05.csv,0
+2025-02-05,North,Fanta,AA,14.9,Wednesday,1371,sales_2025-02-05.csv,0
+2025-02-05,North,Sprite,AA,14.9,Wednesday,1286,sales_2025-02-05.csv,0
+2025-02-05,North,Pepsi,AA,14.9,Wednesday,1385,sales_2025-02-05.csv,0
+2025-02-05,North,Golden Milk,AB,14.9,Wednesday,901,sales_2025-02-05.csv,0
+2025-02-05,North,Almond Drink,AB,14.9,Wednesday,967,sales_2025-02-05.csv,0
+2025-02-05,North,Oat Latte,AB,14.9,Wednesday,772,sales_2025-02-05.csv,0
+2025-02-05,North,Strawberry Shake,AC,14.9,Wednesday,952,sales_2025-02-05.csv,0
+2025-02-05,North,Chocolate Shake,AC,14.9,Wednesday,1080,sales_2025-02-05.csv,0
+2025-02-05,North,Vanilla Shake,AC,14.9,Wednesday,1185,sales_2025-02-05.csv,0
+2025-02-05,North,Orange Juice,AD,14.9,Wednesday,1344,sales_2025-02-05.csv,0
+2025-02-05,North,Apple Juice,AD,14.9,Wednesday,1238,sales_2025-02-05.csv,0
+2025-02-05,North,Mango Juice,AD,14.9,Wednesday,1168,sales_2025-02-05.csv,0
+2025-02-05,North,Pepsi Max,AE,14.9,Wednesday,1184,sales_2025-02-05.csv,0
+2025-02-05,North,Cola Zero,AE,14.9,Wednesday,1126,sales_2025-02-05.csv,0
+2025-02-05,North,Sprite Zero,AE,14.9,Wednesday,1173,sales_2025-02-05.csv,0
+2025-02-05,North,Kombucha,AF,14.9,Wednesday,1081,sales_2025-02-05.csv,0
+2025-02-05,North,Coconut Water,AF,14.9,Wednesday,1075,sales_2025-02-05.csv,0
+2025-02-05,North,Isotonic Drink,AF,14.9,Wednesday,1280,sales_2025-02-05.csv,1
+2025-02-05,South,Coca-Cola,AA,23.0,Wednesday,1289,sales_2025-02-05.csv,0
+2025-02-05,South,Fanta,AA,23.0,Wednesday,1291,sales_2025-02-05.csv,0
+2025-02-05,South,Sprite,AA,23.0,Wednesday,1259,sales_2025-02-05.csv,0
+2025-02-05,South,Pepsi,AA,23.0,Wednesday,1369,sales_2025-02-05.csv,0
+2025-02-05,South,Golden Milk,AB,23.0,Wednesday,925,sales_2025-02-05.csv,0
+2025-02-05,South,Almond Drink,AB,23.0,Wednesday,995,sales_2025-02-05.csv,0
+2025-02-05,South,Oat Latte,AB,23.0,Wednesday,970,sales_2025-02-05.csv,0
+2025-02-05,South,Strawberry Shake,AC,23.0,Wednesday,1185,sales_2025-02-05.csv,0
+2025-02-05,South,Chocolate Shake,AC,23.0,Wednesday,1129,sales_2025-02-05.csv,0
+2025-02-05,South,Vanilla Shake,AC,23.0,Wednesday,1015,sales_2025-02-05.csv,0
+2025-02-05,South,Orange Juice,AD,23.0,Wednesday,1157,sales_2025-02-05.csv,0
+2025-02-05,South,Apple Juice,AD,23.0,Wednesday,1349,sales_2025-02-05.csv,0
+2025-02-05,South,Mango Juice,AD,23.0,Wednesday,1207,sales_2025-02-05.csv,0
+2025-02-05,South,Pepsi Max,AE,23.0,Wednesday,1058,sales_2025-02-05.csv,0
+2025-02-05,South,Cola Zero,AE,23.0,Wednesday,1103,sales_2025-02-05.csv,0
+2025-02-05,South,Sprite Zero,AE,23.0,Wednesday,1239,sales_2025-02-05.csv,0
+2025-02-05,South,Kombucha,AF,23.0,Wednesday,951,sales_2025-02-05.csv,0
+2025-02-05,South,Coconut Water,AF,23.0,Wednesday,989,sales_2025-02-05.csv,0
+2025-02-05,South,Isotonic Drink,AF,23.0,Wednesday,1003,sales_2025-02-05.csv,0
+2025-02-05,East,Coca-Cola,AA,13.2,Wednesday,989,sales_2025-02-05.csv,0
+2025-02-05,East,Fanta,AA,13.2,Wednesday,966,sales_2025-02-05.csv,0
+2025-02-05,East,Sprite,AA,13.2,Wednesday,1040,sales_2025-02-05.csv,0
+2025-02-05,East,Pepsi,AA,13.2,Wednesday,1047,sales_2025-02-05.csv,0
+2025-02-05,East,Golden Milk,AB,13.2,Wednesday,1016,sales_2025-02-05.csv,0
+2025-02-05,East,Almond Drink,AB,13.2,Wednesday,948,sales_2025-02-05.csv,0
+2025-02-05,East,Oat Latte,AB,13.2,Wednesday,1152,sales_2025-02-05.csv,0
+2025-02-05,East,Strawberry Shake,AC,13.2,Wednesday,1197,sales_2025-02-05.csv,0
+2025-02-05,East,Chocolate Shake,AC,13.2,Wednesday,1309,sales_2025-02-05.csv,0
+2025-02-05,East,Vanilla Shake,AC,13.2,Wednesday,1215,sales_2025-02-05.csv,0
+2025-02-05,East,Orange Juice,AD,13.2,Wednesday,2083,sales_2025-02-05.csv,1
+2025-02-05,East,Apple Juice,AD,13.2,Wednesday,2582,sales_2025-02-05.csv,1
+2025-02-05,East,Mango Juice,AD,13.2,Wednesday,1037,sales_2025-02-05.csv,0
+2025-02-05,East,Pepsi Max,AE,13.2,Wednesday,1091,sales_2025-02-05.csv,0
+2025-02-05,East,Cola Zero,AE,13.2,Wednesday,1275,sales_2025-02-05.csv,0
+2025-02-05,East,Sprite Zero,AE,13.2,Wednesday,1357,sales_2025-02-05.csv,0
+2025-02-05,East,Kombucha,AF,13.2,Wednesday,984,sales_2025-02-05.csv,0
+2025-02-05,East,Coconut Water,AF,13.2,Wednesday,966,sales_2025-02-05.csv,0
+2025-02-05,East,Isotonic Drink,AF,13.2,Wednesday,1012,sales_2025-02-05.csv,0
+2025-02-06,North,Coca-Cola,AA,16.3,Thursday,1380,sales_2025-02-06.csv,0
+2025-02-06,North,Fanta,AA,16.3,Thursday,1392,sales_2025-02-06.csv,0
+2025-02-06,North,Sprite,AA,16.3,Thursday,1481,sales_2025-02-06.csv,0
+2025-02-06,North,Pepsi,AA,16.3,Thursday,1428,sales_2025-02-06.csv,0
+2025-02-06,North,Golden Milk,AB,16.3,Thursday,973,sales_2025-02-06.csv,0
+2025-02-06,North,Almond Drink,AB,16.3,Thursday,832,sales_2025-02-06.csv,0
+2025-02-06,North,Oat Latte,AB,16.3,Thursday,934,sales_2025-02-06.csv,0
+2025-02-06,North,Strawberry Shake,AC,16.3,Thursday,1009,sales_2025-02-06.csv,0
+2025-02-06,North,Chocolate Shake,AC,16.3,Thursday,976,sales_2025-02-06.csv,0
+2025-02-06,North,Vanilla Shake,AC,16.3,Thursday,1067,sales_2025-02-06.csv,0
+2025-02-06,North,Orange Juice,AD,16.3,Thursday,1390,sales_2025-02-06.csv,0
+2025-02-06,North,Apple Juice,AD,16.3,Thursday,1272,sales_2025-02-06.csv,0
+2025-02-06,North,Mango Juice,AD,16.3,Thursday,1387,sales_2025-02-06.csv,0
+2025-02-06,North,Pepsi Max,AE,16.3,Thursday,1200,sales_2025-02-06.csv,0
+2025-02-06,North,Cola Zero,AE,16.3,Thursday,1095,sales_2025-02-06.csv,0
+2025-02-06,North,Sprite Zero,AE,16.3,Thursday,1087,sales_2025-02-06.csv,0
+2025-02-06,North,Kombucha,AF,16.3,Thursday,1061,sales_2025-02-06.csv,0
+2025-02-06,North,Coconut Water,AF,16.3,Thursday,1107,sales_2025-02-06.csv,0
+2025-02-06,North,Isotonic Drink,AF,16.3,Thursday,1156,sales_2025-02-06.csv,0
+2025-02-06,South,Coca-Cola,AA,20.5,Thursday,1056,sales_2025-02-06.csv,0
+2025-02-06,South,Fanta,AA,20.5,Thursday,1124,sales_2025-02-06.csv,0
+2025-02-06,South,Sprite,AA,20.5,Thursday,1053,sales_2025-02-06.csv,0
+2025-02-06,South,Pepsi,AA,20.5,Thursday,1187,sales_2025-02-06.csv,0
+2025-02-06,South,Golden Milk,AB,20.5,Thursday,995,sales_2025-02-06.csv,0
+2025-02-06,South,Almond Drink,AB,20.5,Thursday,902,sales_2025-02-06.csv,0
+2025-02-06,South,Oat Latte,AB,20.5,Thursday,1001,sales_2025-02-06.csv,0
+2025-02-06,South,Strawberry Shake,AC,20.5,Thursday,1212,sales_2025-02-06.csv,0
+2025-02-06,South,Chocolate Shake,AC,20.5,Thursday,1256,sales_2025-02-06.csv,0
+2025-02-06,South,Vanilla Shake,AC,20.5,Thursday,1215,sales_2025-02-06.csv,0
+2025-02-06,South,Orange Juice,AD,20.5,Thursday,1281,sales_2025-02-06.csv,0
+2025-02-06,South,Apple Juice,AD,20.5,Thursday,1114,sales_2025-02-06.csv,0
+2025-02-06,South,Mango Juice,AD,20.5,Thursday,1146,sales_2025-02-06.csv,0
+2025-02-06,South,Pepsi Max,AE,20.5,Thursday,1193,sales_2025-02-06.csv,0
+2025-02-06,South,Cola Zero,AE,20.5,Thursday,1180,sales_2025-02-06.csv,0
+2025-02-06,South,Sprite Zero,AE,20.5,Thursday,1210,sales_2025-02-06.csv,0
+2025-02-06,South,Kombucha,AF,20.5,Thursday,1025,sales_2025-02-06.csv,0
+2025-02-06,South,Coconut Water,AF,20.5,Thursday,1081,sales_2025-02-06.csv,0
+2025-02-06,South,Isotonic Drink,AF,20.5,Thursday,878,sales_2025-02-06.csv,0
+2025-02-06,East,Coca-Cola,AA,15.5,Thursday,1179,sales_2025-02-06.csv,0
+2025-02-06,East,Fanta,AA,15.5,Thursday,1276,sales_2025-02-06.csv,0
+2025-02-06,East,Sprite,AA,15.5,Thursday,1185,sales_2025-02-06.csv,0
+2025-02-06,East,Pepsi,AA,15.5,Thursday,1077,sales_2025-02-06.csv,0
+2025-02-06,East,Golden Milk,AB,15.5,Thursday,1001,sales_2025-02-06.csv,0
+2025-02-06,East,Almond Drink,AB,15.5,Thursday,993,sales_2025-02-06.csv,0
+2025-02-06,East,Oat Latte,AB,15.5,Thursday,1008,sales_2025-02-06.csv,0
+2025-02-06,East,Strawberry Shake,AC,15.5,Thursday,2387,sales_2025-02-06.csv,1
+2025-02-06,East,Chocolate Shake,AC,15.5,Thursday,1295,sales_2025-02-06.csv,0
+2025-02-06,East,Vanilla Shake,AC,15.5,Thursday,518,sales_2025-02-06.csv,1
+2025-02-06,East,Orange Juice,AD,15.5,Thursday,1177,sales_2025-02-06.csv,0
+2025-02-06,East,Apple Juice,AD,15.5,Thursday,1127,sales_2025-02-06.csv,0
+2025-02-06,East,Mango Juice,AD,15.5,Thursday,1125,sales_2025-02-06.csv,0
+2025-02-06,East,Pepsi Max,AE,15.5,Thursday,1094,sales_2025-02-06.csv,0
+2025-02-06,East,Cola Zero,AE,15.5,Thursday,1152,sales_2025-02-06.csv,0
+2025-02-06,East,Sprite Zero,AE,15.5,Thursday,1113,sales_2025-02-06.csv,0
+2025-02-06,East,Kombucha,AF,15.5,Thursday,1156,sales_2025-02-06.csv,0
+2025-02-06,East,Coconut Water,AF,15.5,Thursday,880,sales_2025-02-06.csv,0
+2025-02-06,East,Isotonic Drink,AF,15.5,Thursday,934,sales_2025-02-06.csv,0
+2025-02-07,North,Coca-Cola,AA,12.8,Friday,1275,sales_2025-02-07.csv,0
+2025-02-07,North,Fanta,AA,12.8,Friday,1199,sales_2025-02-07.csv,0
+2025-02-07,North,Sprite,AA,12.8,Friday,1275,sales_2025-02-07.csv,0
+2025-02-07,North,Pepsi,AA,12.8,Friday,1159,sales_2025-02-07.csv,0
+2025-02-07,North,Golden Milk,AB,12.8,Friday,990,sales_2025-02-07.csv,0
+2025-02-07,North,Almond Drink,AB,12.8,Friday,1108,sales_2025-02-07.csv,0
+2025-02-07,North,Oat Latte,AB,12.8,Friday,918,sales_2025-02-07.csv,0
+2025-02-07,North,Strawberry Shake,AC,12.8,Friday,1189,sales_2025-02-07.csv,0
+2025-02-07,North,Chocolate Shake,AC,12.8,Friday,1174,sales_2025-02-07.csv,0
+2025-02-07,North,Vanilla Shake,AC,12.8,Friday,1002,sales_2025-02-07.csv,0
+2025-02-07,North,Orange Juice,AD,12.8,Friday,1161,sales_2025-02-07.csv,0
+2025-02-07,North,Apple Juice,AD,12.8,Friday,1281,sales_2025-02-07.csv,0
+2025-02-07,North,Mango Juice,AD,12.8,Friday,1211,sales_2025-02-07.csv,0
+2025-02-07,North,Pepsi Max,AE,12.8,Friday,1089,sales_2025-02-07.csv,0
+2025-02-07,North,Cola Zero,AE,12.8,Friday,1222,sales_2025-02-07.csv,0
+2025-02-07,North,Sprite Zero,AE,12.8,Friday,1140,sales_2025-02-07.csv,0
+2025-02-07,North,Kombucha,AF,12.8,Friday,1045,sales_2025-02-07.csv,0
+2025-02-07,North,Coconut Water,AF,12.8,Friday,1046,sales_2025-02-07.csv,0
+2025-02-07,North,Isotonic Drink,AF,12.8,Friday,942,sales_2025-02-07.csv,0
+2025-02-07,South,Coca-Cola,AA,25.4,Friday,1373,sales_2025-02-07.csv,0
+2025-02-07,South,Fanta,AA,25.4,Friday,1353,sales_2025-02-07.csv,0
+2025-02-07,South,Sprite,AA,25.4,Friday,1382,sales_2025-02-07.csv,0
+2025-02-07,South,Pepsi,AA,25.4,Friday,1420,sales_2025-02-07.csv,0
+2025-02-07,South,Golden Milk,AB,25.4,Friday,886,sales_2025-02-07.csv,0
+2025-02-07,South,Almond Drink,AB,25.4,Friday,824,sales_2025-02-07.csv,0
+2025-02-07,South,Oat Latte,AB,25.4,Friday,930,sales_2025-02-07.csv,0
+2025-02-07,South,Strawberry Shake,AC,25.4,Friday,998,sales_2025-02-07.csv,0
+2025-02-07,South,Chocolate Shake,AC,25.4,Friday,931,sales_2025-02-07.csv,0
+2025-02-07,South,Vanilla Shake,AC,25.4,Friday,1042,sales_2025-02-07.csv,0
+2025-02-07,South,Orange Juice,AD,25.4,Friday,1427,sales_2025-02-07.csv,0
+2025-02-07,South,Apple Juice,AD,25.4,Friday,1339,sales_2025-02-07.csv,0
+2025-02-07,South,Mango Juice,AD,25.4,Friday,1331,sales_2025-02-07.csv,0
+2025-02-07,South,Pepsi Max,AE,25.4,Friday,1996,sales_2025-02-07.csv,1
+2025-02-07,South,Cola Zero,AE,25.4,Friday,1073,sales_2025-02-07.csv,0
+2025-02-07,South,Sprite Zero,AE,25.4,Friday,1082,sales_2025-02-07.csv,0
+2025-02-07,South,Kombucha,AF,25.4,Friday,1127,sales_2025-02-07.csv,0
+2025-02-07,South,Coconut Water,AF,25.4,Friday,1098,sales_2025-02-07.csv,0
+2025-02-07,South,Isotonic Drink,AF,25.4,Friday,1127,sales_2025-02-07.csv,0
+2025-02-07,East,Coca-Cola,AA,21.6,Friday,1539,sales_2025-02-07.csv,0
+2025-02-07,East,Fanta,AA,21.6,Friday,1542,sales_2025-02-07.csv,0
+2025-02-07,East,Sprite,AA,21.6,Friday,1484,sales_2025-02-07.csv,0
+2025-02-07,East,Pepsi,AA,21.6,Friday,1575,sales_2025-02-07.csv,0
+2025-02-07,East,Golden Milk,AB,21.6,Friday,880,sales_2025-02-07.csv,0
+2025-02-07,East,Almond Drink,AB,21.6,Friday,689,sales_2025-02-07.csv,0
+2025-02-07,East,Oat Latte,AB,21.6,Friday,765,sales_2025-02-07.csv,0
+2025-02-07,East,Strawberry Shake,AC,21.6,Friday,873,sales_2025-02-07.csv,0
+2025-02-07,East,Chocolate Shake,AC,21.6,Friday,930,sales_2025-02-07.csv,0
+2025-02-07,East,Vanilla Shake,AC,21.6,Friday,897,sales_2025-02-07.csv,0
+2025-02-07,East,Orange Juice,AD,21.6,Friday,1457,sales_2025-02-07.csv,0
+2025-02-07,East,Apple Juice,AD,21.6,Friday,1418,sales_2025-02-07.csv,0
+2025-02-07,East,Mango Juice,AD,21.6,Friday,1468,sales_2025-02-07.csv,0
+2025-02-07,East,Pepsi Max,AE,21.6,Friday,1129,sales_2025-02-07.csv,0
+2025-02-07,East,Cola Zero,AE,21.6,Friday,938,sales_2025-02-07.csv,1
+2025-02-07,East,Sprite Zero,AE,21.6,Friday,1109,sales_2025-02-07.csv,0
+2025-02-07,East,Kombucha,AF,21.6,Friday,1158,sales_2025-02-07.csv,0
+2025-02-07,East,Coconut Water,AF,21.6,Friday,1128,sales_2025-02-07.csv,0
+2025-02-07,East,Isotonic Drink,AF,21.6,Friday,994,sales_2025-02-07.csv,0
+2025-02-08,North,Coca-Cola,AA,9.9,Saturday,1173,sales_2025-02-08.csv,0
+2025-02-08,North,Fanta,AA,9.9,Saturday,351,sales_2025-02-08.csv,1
+2025-02-08,North,Sprite,AA,9.9,Saturday,978,sales_2025-02-08.csv,0
+2025-02-08,North,Pepsi,AA,9.9,Saturday,1022,sales_2025-02-08.csv,0
+2025-02-08,North,Golden Milk,AB,9.9,Saturday,1021,sales_2025-02-08.csv,0
+2025-02-08,North,Almond Drink,AB,9.9,Saturday,1082,sales_2025-02-08.csv,0
+2025-02-08,North,Oat Latte,AB,9.9,Saturday,1179,sales_2025-02-08.csv,0
+2025-02-08,North,Strawberry Shake,AC,9.9,Saturday,1264,sales_2025-02-08.csv,0
+2025-02-08,North,Chocolate Shake,AC,9.9,Saturday,1316,sales_2025-02-08.csv,0
+2025-02-08,North,Vanilla Shake,AC,9.9,Saturday,1225,sales_2025-02-08.csv,0
+2025-02-08,North,Orange Juice,AD,9.9,Saturday,1192,sales_2025-02-08.csv,0
+2025-02-08,North,Apple Juice,AD,9.9,Saturday,1099,sales_2025-02-08.csv,0
+2025-02-08,North,Mango Juice,AD,9.9,Saturday,1010,sales_2025-02-08.csv,0
+2025-02-08,North,Pepsi Max,AE,9.9,Saturday,1295,sales_2025-02-08.csv,0
+2025-02-08,North,Cola Zero,AE,9.9,Saturday,1316,sales_2025-02-08.csv,0
+2025-02-08,North,Sprite Zero,AE,9.9,Saturday,1243,sales_2025-02-08.csv,0
+2025-02-08,North,Kombucha,AF,9.9,Saturday,833,sales_2025-02-08.csv,0
+2025-02-08,North,Coconut Water,AF,9.9,Saturday,1072,sales_2025-02-08.csv,0
+2025-02-08,North,Isotonic Drink,AF,9.9,Saturday,969,sales_2025-02-08.csv,0
+2025-02-08,South,Coca-Cola,AA,26.5,Saturday,1471,sales_2025-02-08.csv,0
+2025-02-08,South,Fanta,AA,26.5,Saturday,1482,sales_2025-02-08.csv,0
+2025-02-08,South,Sprite,AA,26.5,Saturday,1518,sales_2025-02-08.csv,0
+2025-02-08,South,Pepsi,AA,26.5,Saturday,1588,sales_2025-02-08.csv,0
+2025-02-08,South,Golden Milk,AB,26.5,Saturday,855,sales_2025-02-08.csv,0
+2025-02-08,South,Almond Drink,AB,26.5,Saturday,757,sales_2025-02-08.csv,0
+2025-02-08,South,Oat Latte,AB,26.5,Saturday,863,sales_2025-02-08.csv,0
+2025-02-08,South,Strawberry Shake,AC,26.5,Saturday,1039,sales_2025-02-08.csv,0
+2025-02-08,South,Chocolate Shake,AC,26.5,Saturday,930,sales_2025-02-08.csv,0
+2025-02-08,South,Vanilla Shake,AC,26.5,Saturday,934,sales_2025-02-08.csv,0
+2025-02-08,South,Orange Juice,AD,26.5,Saturday,1302,sales_2025-02-08.csv,0
+2025-02-08,South,Apple Juice,AD,26.5,Saturday,1292,sales_2025-02-08.csv,0
+2025-02-08,South,Mango Juice,AD,26.5,Saturday,1345,sales_2025-02-08.csv,0
+2025-02-08,South,Pepsi Max,AE,26.5,Saturday,1057,sales_2025-02-08.csv,0
+2025-02-08,South,Cola Zero,AE,26.5,Saturday,1087,sales_2025-02-08.csv,0
+2025-02-08,South,Sprite Zero,AE,26.5,Saturday,1092,sales_2025-02-08.csv,0
+2025-02-08,South,Kombucha,AF,26.5,Saturday,1250,sales_2025-02-08.csv,0
+2025-02-08,South,Coconut Water,AF,26.5,Saturday,1142,sales_2025-02-08.csv,0
+2025-02-08,South,Isotonic Drink,AF,26.5,Saturday,1212,sales_2025-02-08.csv,0
+2025-02-08,East,Coca-Cola,AA,16.9,Saturday,1395,sales_2025-02-08.csv,0
+2025-02-08,East,Fanta,AA,16.9,Saturday,1163,sales_2025-02-08.csv,0
+2025-02-08,East,Sprite,AA,16.9,Saturday,1252,sales_2025-02-08.csv,0
+2025-02-08,East,Pepsi,AA,16.9,Saturday,1363,sales_2025-02-08.csv,0
+2025-02-08,East,Golden Milk,AB,16.9,Saturday,941,sales_2025-02-08.csv,0
+2025-02-08,East,Almond Drink,AB,16.9,Saturday,1018,sales_2025-02-08.csv,0
+2025-02-08,East,Oat Latte,AB,16.9,Saturday,980,sales_2025-02-08.csv,0
+2025-02-08,East,Strawberry Shake,AC,16.9,Saturday,1171,sales_2025-02-08.csv,0
+2025-02-08,East,Chocolate Shake,AC,16.9,Saturday,1148,sales_2025-02-08.csv,0
+2025-02-08,East,Vanilla Shake,AC,16.9,Saturday,1152,sales_2025-02-08.csv,0
+2025-02-08,East,Orange Juice,AD,16.9,Saturday,1350,sales_2025-02-08.csv,0
+2025-02-08,East,Apple Juice,AD,16.9,Saturday,1315,sales_2025-02-08.csv,0
+2025-02-08,East,Mango Juice,AD,16.9,Saturday,1316,sales_2025-02-08.csv,0
+2025-02-08,East,Pepsi Max,AE,16.9,Saturday,1153,sales_2025-02-08.csv,0
+2025-02-08,East,Cola Zero,AE,16.9,Saturday,1111,sales_2025-02-08.csv,0
+2025-02-08,East,Sprite Zero,AE,16.9,Saturday,1106,sales_2025-02-08.csv,0
+2025-02-08,East,Kombucha,AF,16.9,Saturday,1100,sales_2025-02-08.csv,0
+2025-02-08,East,Coconut Water,AF,16.9,Saturday,877,sales_2025-02-08.csv,0
+2025-02-08,East,Isotonic Drink,AF,16.9,Saturday,956,sales_2025-02-08.csv,0
+2025-02-09,North,Coca-Cola,AA,11.1,Sunday,1109,sales_2025-02-09.csv,0
+2025-02-09,North,Fanta,AA,11.1,Sunday,942,sales_2025-02-09.csv,0
+2025-02-09,North,Sprite,AA,11.1,Sunday,1214,sales_2025-02-09.csv,0
+2025-02-09,North,Pepsi,AA,11.1,Sunday,1168,sales_2025-02-09.csv,0
+2025-02-09,North,Golden Milk,AB,11.1,Sunday,1176,sales_2025-02-09.csv,0
+2025-02-09,North,Almond Drink,AB,11.1,Sunday,1111,sales_2025-02-09.csv,0
+2025-02-09,North,Oat Latte,AB,11.1,Sunday,1109,sales_2025-02-09.csv,0
+2025-02-09,North,Strawberry Shake,AC,11.1,Sunday,1403,sales_2025-02-09.csv,0
+2025-02-09,North,Chocolate Shake,AC,11.1,Sunday,1205,sales_2025-02-09.csv,0
+2025-02-09,North,Vanilla Shake,AC,11.1,Sunday,1140,sales_2025-02-09.csv,0
+2025-02-09,North,Orange Juice,AD,11.1,Sunday,1118,sales_2025-02-09.csv,0
+2025-02-09,North,Apple Juice,AD,11.1,Sunday,1076,sales_2025-02-09.csv,0
+2025-02-09,North,Mango Juice,AD,11.1,Sunday,1116,sales_2025-02-09.csv,0
+2025-02-09,North,Pepsi Max,AE,11.1,Sunday,1134,sales_2025-02-09.csv,0
+2025-02-09,North,Cola Zero,AE,11.1,Sunday,1248,sales_2025-02-09.csv,0
+2025-02-09,North,Sprite Zero,AE,11.1,Sunday,1244,sales_2025-02-09.csv,0
+2025-02-09,North,Kombucha,AF,11.1,Sunday,976,sales_2025-02-09.csv,0
+2025-02-09,North,Coconut Water,AF,11.1,Sunday,999,sales_2025-02-09.csv,0
+2025-02-09,North,Isotonic Drink,AF,11.1,Sunday,968,sales_2025-02-09.csv,0
+2025-02-09,South,Coca-Cola,AA,25.3,Sunday,1443,sales_2025-02-09.csv,0
+2025-02-09,South,Fanta,AA,25.3,Sunday,1419,sales_2025-02-09.csv,0
+2025-02-09,South,Sprite,AA,25.3,Sunday,1503,sales_2025-02-09.csv,0
+2025-02-09,South,Pepsi,AA,25.3,Sunday,1526,sales_2025-02-09.csv,0
+2025-02-09,South,Golden Milk,AB,25.3,Sunday,975,sales_2025-02-09.csv,0
+2025-02-09,South,Almond Drink,AB,25.3,Sunday,812,sales_2025-02-09.csv,0
+2025-02-09,South,Oat Latte,AB,25.3,Sunday,844,sales_2025-02-09.csv,0
+2025-02-09,South,Strawberry Shake,AC,25.3,Sunday,866,sales_2025-02-09.csv,0
+2025-02-09,South,Chocolate Shake,AC,25.3,Sunday,968,sales_2025-02-09.csv,0
+2025-02-09,South,Vanilla Shake,AC,25.3,Sunday,1014,sales_2025-02-09.csv,0
+2025-02-09,South,Orange Juice,AD,25.3,Sunday,1333,sales_2025-02-09.csv,0
+2025-02-09,South,Apple Juice,AD,25.3,Sunday,1477,sales_2025-02-09.csv,0
+2025-02-09,South,Mango Juice,AD,25.3,Sunday,1314,sales_2025-02-09.csv,0
+2025-02-09,South,Pepsi Max,AE,25.3,Sunday,1028,sales_2025-02-09.csv,0
+2025-02-09,South,Cola Zero,AE,25.3,Sunday,1144,sales_2025-02-09.csv,0
+2025-02-09,South,Sprite Zero,AE,25.3,Sunday,1114,sales_2025-02-09.csv,0
+2025-02-09,South,Kombucha,AF,25.3,Sunday,1146,sales_2025-02-09.csv,0
+2025-02-09,South,Coconut Water,AF,25.3,Sunday,1129,sales_2025-02-09.csv,0
+2025-02-09,South,Isotonic Drink,AF,25.3,Sunday,1125,sales_2025-02-09.csv,0
+2025-02-09,East,Coca-Cola,AA,10.6,Sunday,865,sales_2025-02-09.csv,0
+2025-02-09,East,Fanta,AA,10.6,Sunday,875,sales_2025-02-09.csv,0
+2025-02-09,East,Sprite,AA,10.6,Sunday,892,sales_2025-02-09.csv,0
+2025-02-09,East,Pepsi,AA,10.6,Sunday,885,sales_2025-02-09.csv,0
+2025-02-09,East,Golden Milk,AB,10.6,Sunday,1171,sales_2025-02-09.csv,0
+2025-02-09,East,Almond Drink,AB,10.6,Sunday,1184,sales_2025-02-09.csv,0
+2025-02-09,East,Oat Latte,AB,10.6,Sunday,1063,sales_2025-02-09.csv,0
+2025-02-09,East,Strawberry Shake,AC,10.6,Sunday,1468,sales_2025-02-09.csv,0
+2025-02-09,East,Chocolate Shake,AC,10.6,Sunday,1461,sales_2025-02-09.csv,0
+2025-02-09,East,Vanilla Shake,AC,10.6,Sunday,1453,sales_2025-02-09.csv,0
+2025-02-09,East,Orange Juice,AD,10.6,Sunday,506,sales_2025-02-09.csv,0
+2025-02-09,East,Apple Juice,AD,10.6,Sunday,1025,sales_2025-02-09.csv,0
+2025-02-09,East,Mango Juice,AD,10.6,Sunday,1000,sales_2025-02-09.csv,0
+2025-02-09,East,Pepsi Max,AE,10.6,Sunday,1345,sales_2025-02-09.csv,0
+2025-02-09,East,Cola Zero,AE,10.6,Sunday,1403,sales_2025-02-09.csv,1
+2025-02-09,East,Sprite Zero,AE,10.6,Sunday,1389,sales_2025-02-09.csv,1
+2025-02-09,East,Kombucha,AF,10.6,Sunday,898,sales_2025-02-09.csv,0
+2025-02-09,East,Coconut Water,AF,10.6,Sunday,890,sales_2025-02-09.csv,0
+2025-02-09,East,Isotonic Drink,AF,10.6,Sunday,934,sales_2025-02-09.csv,0
+2025-02-10,North,Coca-Cola,AA,10.7,Monday,1000,sales_2025-02-10.csv,0
+2025-02-10,North,Fanta,AA,10.7,Monday,1069,sales_2025-02-10.csv,0
+2025-02-10,North,Sprite,AA,10.7,Monday,1187,sales_2025-02-10.csv,0
+2025-02-10,North,Pepsi,AA,10.7,Monday,1079,sales_2025-02-10.csv,0
+2025-02-10,North,Golden Milk,AB,10.7,Monday,2477,sales_2025-02-10.csv,1
+2025-02-10,North,Almond Drink,AB,10.7,Monday,854,sales_2025-02-10.csv,0
+2025-02-10,North,Oat Latte,AB,10.7,Monday,938,sales_2025-02-10.csv,0
+2025-02-10,North,Strawberry Shake,AC,10.7,Monday,1256,sales_2025-02-10.csv,0
+2025-02-10,North,Chocolate Shake,AC,10.7,Monday,1327,sales_2025-02-10.csv,0
+2025-02-10,North,Vanilla Shake,AC,10.7,Monday,1260,sales_2025-02-10.csv,0
+2025-02-10,North,Orange Juice,AD,10.7,Monday,1111,sales_2025-02-10.csv,0
+2025-02-10,North,Apple Juice,AD,10.7,Monday,1109,sales_2025-02-10.csv,0
+2025-02-10,North,Mango Juice,AD,10.7,Monday,995,sales_2025-02-10.csv,0
+2025-02-10,North,Pepsi Max,AE,10.7,Monday,1297,sales_2025-02-10.csv,0
+2025-02-10,North,Cola Zero,AE,10.7,Monday,1168,sales_2025-02-10.csv,0
+2025-02-10,North,Sprite Zero,AE,10.7,Monday,1292,sales_2025-02-10.csv,0
+2025-02-10,North,Kombucha,AF,10.7,Monday,552,sales_2025-02-10.csv,1
+2025-02-10,North,Coconut Water,AF,10.7,Monday,1042,sales_2025-02-10.csv,0
+2025-02-10,North,Isotonic Drink,AF,10.7,Monday,992,sales_2025-02-10.csv,0
+2025-02-10,South,Coca-Cola,AA,22.7,Monday,1298,sales_2025-02-10.csv,0
+2025-02-10,South,Fanta,AA,22.7,Monday,1179,sales_2025-02-10.csv,0
+2025-02-10,South,Sprite,AA,22.7,Monday,1282,sales_2025-02-10.csv,0
+2025-02-10,South,Pepsi,AA,22.7,Monday,1402,sales_2025-02-10.csv,0
+2025-02-10,South,Golden Milk,AB,22.7,Monday,1051,sales_2025-02-10.csv,0
+2025-02-10,South,Almond Drink,AB,22.7,Monday,890,sales_2025-02-10.csv,0
+2025-02-10,South,Oat Latte,AB,22.7,Monday,994,sales_2025-02-10.csv,0
+2025-02-10,South,Strawberry Shake,AC,22.7,Monday,1132,sales_2025-02-10.csv,0
+2025-02-10,South,Chocolate Shake,AC,22.7,Monday,1172,sales_2025-02-10.csv,0
+2025-02-10,South,Vanilla Shake,AC,22.7,Monday,1122,sales_2025-02-10.csv,0
+2025-02-10,South,Orange Juice,AD,22.7,Monday,1222,sales_2025-02-10.csv,0
+2025-02-10,South,Apple Juice,AD,22.7,Monday,588,sales_2025-02-10.csv,1
+2025-02-10,South,Mango Juice,AD,22.7,Monday,1253,sales_2025-02-10.csv,0
+2025-02-10,South,Pepsi Max,AE,22.7,Monday,1244,sales_2025-02-10.csv,0
+2025-02-10,South,Cola Zero,AE,22.7,Monday,1224,sales_2025-02-10.csv,0
+2025-02-10,South,Sprite Zero,AE,22.7,Monday,1133,sales_2025-02-10.csv,0
+2025-02-10,South,Kombucha,AF,22.7,Monday,1031,sales_2025-02-10.csv,0
+2025-02-10,South,Coconut Water,AF,22.7,Monday,1178,sales_2025-02-10.csv,0
+2025-02-10,South,Isotonic Drink,AF,22.7,Monday,1056,sales_2025-02-10.csv,0
+2025-02-10,East,Coca-Cola,AA,14.7,Monday,1078,sales_2025-02-10.csv,0
+2025-02-10,East,Fanta,AA,14.7,Monday,1230,sales_2025-02-10.csv,0
+2025-02-10,East,Sprite,AA,14.7,Monday,1173,sales_2025-02-10.csv,0
+2025-02-10,East,Pepsi,AA,14.7,Monday,1107,sales_2025-02-10.csv,0
+2025-02-10,East,Golden Milk,AB,14.7,Monday,1066,sales_2025-02-10.csv,0
+2025-02-10,East,Almond Drink,AB,14.7,Monday,1030,sales_2025-02-10.csv,0
+2025-02-10,East,Oat Latte,AB,14.7,Monday,903,sales_2025-02-10.csv,0
+2025-02-10,East,Strawberry Shake,AC,14.7,Monday,1256,sales_2025-02-10.csv,0
+2025-02-10,East,Chocolate Shake,AC,14.7,Monday,1308,sales_2025-02-10.csv,0
+2025-02-10,East,Vanilla Shake,AC,14.7,Monday,1394,sales_2025-02-10.csv,0
+2025-02-10,East,Orange Juice,AD,14.7,Monday,1160,sales_2025-02-10.csv,0
+2025-02-10,East,Apple Juice,AD,14.7,Monday,1174,sales_2025-02-10.csv,0
+2025-02-10,East,Mango Juice,AD,14.7,Monday,1270,sales_2025-02-10.csv,0
+2025-02-10,East,Pepsi Max,AE,14.7,Monday,1208,sales_2025-02-10.csv,0
+2025-02-10,East,Cola Zero,AE,14.7,Monday,1215,sales_2025-02-10.csv,0
+2025-02-10,East,Sprite Zero,AE,14.7,Monday,1152,sales_2025-02-10.csv,0
+2025-02-10,East,Kombucha,AF,14.7,Monday,895,sales_2025-02-10.csv,0
+2025-02-10,East,Coconut Water,AF,14.7,Monday,1056,sales_2025-02-10.csv,0
+2025-02-10,East,Isotonic Drink,AF,14.7,Monday,903,sales_2025-02-10.csv,0
+2025-02-11,North,Coca-Cola,AA,17.4,Tuesday,1449,sales_2025-02-11.csv,0
+2025-02-11,North,Fanta,AA,17.4,Tuesday,1523,sales_2025-02-11.csv,0
+2025-02-11,North,Sprite,AA,17.4,Tuesday,1478,sales_2025-02-11.csv,0
+2025-02-11,North,Pepsi,AA,17.4,Tuesday,1586,sales_2025-02-11.csv,0
+2025-02-11,North,Golden Milk,AB,17.4,Tuesday,869,sales_2025-02-11.csv,0
+2025-02-11,North,Almond Drink,AB,17.4,Tuesday,985,sales_2025-02-11.csv,0
+2025-02-11,North,Oat Latte,AB,17.4,Tuesday,772,sales_2025-02-11.csv,0
+2025-02-11,North,Strawberry Shake,AC,17.4,Tuesday,959,sales_2025-02-11.csv,0
+2025-02-11,North,Chocolate Shake,AC,17.4,Tuesday,933,sales_2025-02-11.csv,0
+2025-02-11,North,Vanilla Shake,AC,17.4,Tuesday,950,sales_2025-02-11.csv,0
+2025-02-11,North,Orange Juice,AD,17.4,Tuesday,1498,sales_2025-02-11.csv,0
+2025-02-11,North,Apple Juice,AD,17.4,Tuesday,1427,sales_2025-02-11.csv,0
+2025-02-11,North,Mango Juice,AD,17.4,Tuesday,1306,sales_2025-02-11.csv,0
+2025-02-11,North,Pepsi Max,AE,17.4,Tuesday,1119,sales_2025-02-11.csv,0
+2025-02-11,North,Cola Zero,AE,17.4,Tuesday,1053,sales_2025-02-11.csv,0
+2025-02-11,North,Sprite Zero,AE,17.4,Tuesday,1049,sales_2025-02-11.csv,0
+2025-02-11,North,Kombucha,AF,17.4,Tuesday,1208,sales_2025-02-11.csv,0
+2025-02-11,North,Coconut Water,AF,17.4,Tuesday,1093,sales_2025-02-11.csv,0
+2025-02-11,North,Isotonic Drink,AF,17.4,Tuesday,1108,sales_2025-02-11.csv,0
+2025-02-11,South,Coca-Cola,AA,23.1,Tuesday,1372,sales_2025-02-11.csv,0
+2025-02-11,South,Fanta,AA,23.1,Tuesday,1347,sales_2025-02-11.csv,0
+2025-02-11,South,Sprite,AA,23.1,Tuesday,1290,sales_2025-02-11.csv,0
+2025-02-11,South,Pepsi,AA,23.1,Tuesday,1287,sales_2025-02-11.csv,0
+2025-02-11,South,Golden Milk,AB,23.1,Tuesday,866,sales_2025-02-11.csv,0
+2025-02-11,South,Almond Drink,AB,23.1,Tuesday,894,sales_2025-02-11.csv,0
+2025-02-11,South,Oat Latte,AB,23.1,Tuesday,901,sales_2025-02-11.csv,0
+2025-02-11,South,Strawberry Shake,AC,23.1,Tuesday,1085,sales_2025-02-11.csv,0
+2025-02-11,South,Chocolate Shake,AC,23.1,Tuesday,1234,sales_2025-02-11.csv,0
+2025-02-11,South,Vanilla Shake,AC,23.1,Tuesday,1048,sales_2025-02-11.csv,0
+2025-02-11,South,Orange Juice,AD,23.1,Tuesday,1233,sales_2025-02-11.csv,0
+2025-02-11,South,Apple Juice,AD,23.1,Tuesday,1110,sales_2025-02-11.csv,0
+2025-02-11,South,Mango Juice,AD,23.1,Tuesday,1296,sales_2025-02-11.csv,0
+2025-02-11,South,Pepsi Max,AE,23.1,Tuesday,1038,sales_2025-02-11.csv,0
+2025-02-11,South,Cola Zero,AE,23.1,Tuesday,1085,sales_2025-02-11.csv,0
+2025-02-11,South,Sprite Zero,AE,23.1,Tuesday,1221,sales_2025-02-11.csv,0
+2025-02-11,South,Kombucha,AF,23.1,Tuesday,905,sales_2025-02-11.csv,0
+2025-02-11,South,Coconut Water,AF,23.1,Tuesday,437,sales_2025-02-11.csv,1
+2025-02-11,South,Isotonic Drink,AF,23.1,Tuesday,1109,sales_2025-02-11.csv,0
+2025-02-11,East,Coca-Cola,AA,21.6,Tuesday,1512,sales_2025-02-11.csv,0
+2025-02-11,East,Fanta,AA,21.6,Tuesday,1532,sales_2025-02-11.csv,0
+2025-02-11,East,Sprite,AA,21.6,Tuesday,1702,sales_2025-02-11.csv,1
+2025-02-11,East,Pepsi,AA,21.6,Tuesday,3733,sales_2025-02-11.csv,1
+2025-02-11,East,Golden Milk,AB,21.6,Tuesday,760,sales_2025-02-11.csv,0
+2025-02-11,East,Almond Drink,AB,21.6,Tuesday,762,sales_2025-02-11.csv,0
+2025-02-11,East,Oat Latte,AB,21.6,Tuesday,387,sales_2025-02-11.csv,1
+2025-02-11,East,Strawberry Shake,AC,21.6,Tuesday,839,sales_2025-02-11.csv,0
+2025-02-11,East,Chocolate Shake,AC,21.6,Tuesday,946,sales_2025-02-11.csv,0
+2025-02-11,East,Vanilla Shake,AC,21.6,Tuesday,932,sales_2025-02-11.csv,0
+2025-02-11,East,Orange Juice,AD,21.6,Tuesday,1352,sales_2025-02-11.csv,0
+2025-02-11,East,Apple Juice,AD,21.6,Tuesday,1449,sales_2025-02-11.csv,0
+2025-02-11,East,Mango Juice,AD,21.6,Tuesday,1406,sales_2025-02-11.csv,0
+2025-02-11,East,Pepsi Max,AE,21.6,Tuesday,1113,sales_2025-02-11.csv,0
+2025-02-11,East,Cola Zero,AE,21.6,Tuesday,1047,sales_2025-02-11.csv,0
+2025-02-11,East,Sprite Zero,AE,21.6,Tuesday,1084,sales_2025-02-11.csv,0
+2025-02-11,East,Kombucha,AF,21.6,Tuesday,1154,sales_2025-02-11.csv,0
+2025-02-11,East,Coconut Water,AF,21.6,Tuesday,1012,sales_2025-02-11.csv,0
+2025-02-11,East,Isotonic Drink,AF,21.6,Tuesday,1168,sales_2025-02-11.csv,0
+2025-02-12,North,Coca-Cola,AA,10.2,Wednesday,1124,sales_2025-02-12.csv,0
+2025-02-12,North,Fanta,AA,10.2,Wednesday,1024,sales_2025-02-12.csv,0
+2025-02-12,North,Sprite,AA,10.2,Wednesday,1030,sales_2025-02-12.csv,0
+2025-02-12,North,Pepsi,AA,10.2,Wednesday,1071,sales_2025-02-12.csv,0
+2025-02-12,North,Golden Milk,AB,10.2,Wednesday,1104,sales_2025-02-12.csv,0
+2025-02-12,North,Almond Drink,AB,10.2,Wednesday,1052,sales_2025-02-12.csv,0
+2025-02-12,North,Oat Latte,AB,10.2,Wednesday,1179,sales_2025-02-12.csv,0
+2025-02-12,North,Strawberry Shake,AC,10.2,Wednesday,1405,sales_2025-02-12.csv,0
+2025-02-12,North,Chocolate Shake,AC,10.2,Wednesday,1410,sales_2025-02-12.csv,0
+2025-02-12,North,Vanilla Shake,AC,10.2,Wednesday,1274,sales_2025-02-12.csv,0
+2025-02-12,North,Orange Juice,AD,10.2,Wednesday,994,sales_2025-02-12.csv,0
+2025-02-12,North,Apple Juice,AD,10.2,Wednesday,1183,sales_2025-02-12.csv,0
+2025-02-12,North,Mango Juice,AD,10.2,Wednesday,1069,sales_2025-02-12.csv,0
+2025-02-12,North,Pepsi Max,AE,10.2,Wednesday,1229,sales_2025-02-12.csv,0
+2025-02-12,North,Cola Zero,AE,10.2,Wednesday,624,sales_2025-02-12.csv,1
+2025-02-12,North,Sprite Zero,AE,10.2,Wednesday,1114,sales_2025-02-12.csv,0
+2025-02-12,North,Kombucha,AF,10.2,Wednesday,1069,sales_2025-02-12.csv,0
+2025-02-12,North,Coconut Water,AF,10.2,Wednesday,1016,sales_2025-02-12.csv,0
+2025-02-12,North,Isotonic Drink,AF,10.2,Wednesday,980,sales_2025-02-12.csv,0
+2025-02-12,South,Coca-Cola,AA,25.7,Wednesday,549,sales_2025-02-12.csv,1
+2025-02-12,South,Fanta,AA,25.7,Wednesday,1470,sales_2025-02-12.csv,0
+2025-02-12,South,Sprite,AA,25.7,Wednesday,1440,sales_2025-02-12.csv,0
+2025-02-12,South,Pepsi,AA,25.7,Wednesday,1410,sales_2025-02-12.csv,0
+2025-02-12,South,Golden Milk,AB,25.7,Wednesday,889,sales_2025-02-12.csv,0
+2025-02-12,South,Almond Drink,AB,25.7,Wednesday,894,sales_2025-02-12.csv,0
+2025-02-12,South,Oat Latte,AB,25.7,Wednesday,945,sales_2025-02-12.csv,0
+2025-02-12,South,Strawberry Shake,AC,25.7,Wednesday,979,sales_2025-02-12.csv,0
+2025-02-12,South,Chocolate Shake,AC,25.7,Wednesday,905,sales_2025-02-12.csv,0
+2025-02-12,South,Vanilla Shake,AC,25.7,Wednesday,855,sales_2025-02-12.csv,0
+2025-02-12,South,Orange Juice,AD,25.7,Wednesday,1349,sales_2025-02-12.csv,0
+2025-02-12,South,Apple Juice,AD,25.7,Wednesday,1356,sales_2025-02-12.csv,0
+2025-02-12,South,Mango Juice,AD,25.7,Wednesday,1351,sales_2025-02-12.csv,0
+2025-02-12,South,Pepsi Max,AE,25.7,Wednesday,989,sales_2025-02-12.csv,0
+2025-02-12,South,Cola Zero,AE,25.7,Wednesday,1171,sales_2025-02-12.csv,0
+2025-02-12,South,Sprite Zero,AE,25.7,Wednesday,1171,sales_2025-02-12.csv,0
+2025-02-12,South,Kombucha,AF,25.7,Wednesday,1060,sales_2025-02-12.csv,0
+2025-02-12,South,Coconut Water,AF,25.7,Wednesday,1174,sales_2025-02-12.csv,0
+2025-02-12,South,Isotonic Drink,AF,25.7,Wednesday,1184,sales_2025-02-12.csv,0
+2025-02-12,East,Coca-Cola,AA,17.1,Wednesday,1240,sales_2025-02-12.csv,0
+2025-02-12,East,Fanta,AA,17.1,Wednesday,1419,sales_2025-02-12.csv,0
+2025-02-12,East,Sprite,AA,17.1,Wednesday,1333,sales_2025-02-12.csv,0
+2025-02-12,East,Pepsi,AA,17.1,Wednesday,1288,sales_2025-02-12.csv,0
+2025-02-12,East,Golden Milk,AB,17.1,Wednesday,1001,sales_2025-02-12.csv,0
+2025-02-12,East,Almond Drink,AB,17.1,Wednesday,1061,sales_2025-02-12.csv,0
+2025-02-12,East,Oat Latte,AB,17.1,Wednesday,912,sales_2025-02-12.csv,0
+2025-02-12,East,Strawberry Shake,AC,17.1,Wednesday,1143,sales_2025-02-12.csv,0
+2025-02-12,East,Chocolate Shake,AC,17.1,Wednesday,1231,sales_2025-02-12.csv,0
+2025-02-12,East,Vanilla Shake,AC,17.1,Wednesday,1017,sales_2025-02-12.csv,0
+2025-02-12,East,Orange Juice,AD,17.1,Wednesday,1216,sales_2025-02-12.csv,0
+2025-02-12,East,Apple Juice,AD,17.1,Wednesday,1212,sales_2025-02-12.csv,0
+2025-02-12,East,Mango Juice,AD,17.1,Wednesday,1243,sales_2025-02-12.csv,0
+2025-02-12,East,Pepsi Max,AE,17.1,Wednesday,1133,sales_2025-02-12.csv,0
+2025-02-12,East,Cola Zero,AE,17.1,Wednesday,1169,sales_2025-02-12.csv,0
+2025-02-12,East,Sprite Zero,AE,17.1,Wednesday,1091,sales_2025-02-12.csv,0
+2025-02-12,East,Kombucha,AF,17.1,Wednesday,1009,sales_2025-02-12.csv,0
+2025-02-12,East,Coconut Water,AF,17.1,Wednesday,1074,sales_2025-02-12.csv,0
+2025-02-12,East,Isotonic Drink,AF,17.1,Wednesday,1063,sales_2025-02-12.csv,0
+2025-02-13,North,Coca-Cola,AA,16.6,Thursday,1485,sales_2025-02-13.csv,0
+2025-02-13,North,Fanta,AA,16.6,Thursday,1510,sales_2025-02-13.csv,0
+2025-02-13,North,Sprite,AA,16.6,Thursday,563,sales_2025-02-13.csv,1
+2025-02-13,North,Pepsi,AA,16.6,Thursday,1429,sales_2025-02-13.csv,0
+2025-02-13,North,Golden Milk,AB,16.6,Thursday,1001,sales_2025-02-13.csv,0
+2025-02-13,North,Almond Drink,AB,16.6,Thursday,899,sales_2025-02-13.csv,0
+2025-02-13,North,Oat Latte,AB,16.6,Thursday,924,sales_2025-02-13.csv,0
+2025-02-13,North,Strawberry Shake,AC,16.6,Thursday,989,sales_2025-02-13.csv,0
+2025-02-13,North,Chocolate Shake,AC,16.6,Thursday,1000,sales_2025-02-13.csv,0
+2025-02-13,North,Vanilla Shake,AC,16.6,Thursday,954,sales_2025-02-13.csv,0
+2025-02-13,North,Orange Juice,AD,16.6,Thursday,1604,sales_2025-02-13.csv,0
+2025-02-13,North,Apple Juice,AD,16.6,Thursday,1326,sales_2025-02-13.csv,0
+2025-02-13,North,Mango Juice,AD,16.6,Thursday,1351,sales_2025-02-13.csv,0
+2025-02-13,North,Pepsi Max,AE,16.6,Thursday,928,sales_2025-02-13.csv,1
+2025-02-13,North,Cola Zero,AE,16.6,Thursday,1175,sales_2025-02-13.csv,0
+2025-02-13,North,Sprite Zero,AE,16.6,Thursday,1059,sales_2025-02-13.csv,0
+2025-02-13,North,Kombucha,AF,16.6,Thursday,1111,sales_2025-02-13.csv,0
+2025-02-13,North,Coconut Water,AF,16.6,Thursday,1078,sales_2025-02-13.csv,0
+2025-02-13,North,Isotonic Drink,AF,16.6,Thursday,1105,sales_2025-02-13.csv,0
+2025-02-13,South,Coca-Cola,AA,22.1,Thursday,1243,sales_2025-02-13.csv,0
+2025-02-13,South,Fanta,AA,22.1,Thursday,1242,sales_2025-02-13.csv,0
+2025-02-13,South,Sprite,AA,22.1,Thursday,1235,sales_2025-02-13.csv,0
+2025-02-13,South,Pepsi,AA,22.1,Thursday,1234,sales_2025-02-13.csv,0
+2025-02-13,South,Golden Milk,AB,22.1,Thursday,1069,sales_2025-02-13.csv,0
+2025-02-13,South,Almond Drink,AB,22.1,Thursday,1039,sales_2025-02-13.csv,0
+2025-02-13,South,Oat Latte,AB,22.1,Thursday,1039,sales_2025-02-13.csv,0
+2025-02-13,South,Strawberry Shake,AC,22.1,Thursday,1094,sales_2025-02-13.csv,0
+2025-02-13,South,Chocolate Shake,AC,22.1,Thursday,1233,sales_2025-02-13.csv,0
+2025-02-13,South,Vanilla Shake,AC,22.1,Thursday,1224,sales_2025-02-13.csv,0
+2025-02-13,South,Orange Juice,AD,22.1,Thursday,1175,sales_2025-02-13.csv,0
+2025-02-13,South,Apple Juice,AD,22.1,Thursday,1321,sales_2025-02-13.csv,0
+2025-02-13,South,Mango Juice,AD,22.1,Thursday,1166,sales_2025-02-13.csv,0
+2025-02-13,South,Pepsi Max,AE,22.1,Thursday,1039,sales_2025-02-13.csv,0
+2025-02-13,South,Cola Zero,AE,22.1,Thursday,1245,sales_2025-02-13.csv,0
+2025-02-13,South,Sprite Zero,AE,22.1,Thursday,1160,sales_2025-02-13.csv,0
+2025-02-13,South,Kombucha,AF,22.1,Thursday,1096,sales_2025-02-13.csv,0
+2025-02-13,South,Coconut Water,AF,22.1,Thursday,975,sales_2025-02-13.csv,0
+2025-02-13,South,Isotonic Drink,AF,22.1,Thursday,939,sales_2025-02-13.csv,0
+2025-02-13,East,Coca-Cola,AA,20.7,Thursday,1423,sales_2025-02-13.csv,0
+2025-02-13,East,Fanta,AA,20.7,Thursday,1413,sales_2025-02-13.csv,0
+2025-02-13,East,Sprite,AA,20.7,Thursday,1387,sales_2025-02-13.csv,0
+2025-02-13,East,Pepsi,AA,20.7,Thursday,1326,sales_2025-02-13.csv,0
+2025-02-13,East,Golden Milk,AB,20.7,Thursday,766,sales_2025-02-13.csv,0
+2025-02-13,East,Almond Drink,AB,20.7,Thursday,687,sales_2025-02-13.csv,0
+2025-02-13,East,Oat Latte,AB,20.7,Thursday,837,sales_2025-02-13.csv,0
+2025-02-13,East,Strawberry Shake,AC,20.7,Thursday,758,sales_2025-02-13.csv,1
+2025-02-13,East,Chocolate Shake,AC,20.7,Thursday,838,sales_2025-02-13.csv,0
+2025-02-13,East,Vanilla Shake,AC,20.7,Thursday,1078,sales_2025-02-13.csv,0
+2025-02-13,East,Orange Juice,AD,20.7,Thursday,1422,sales_2025-02-13.csv,0
+2025-02-13,East,Apple Juice,AD,20.7,Thursday,1402,sales_2025-02-13.csv,0
+2025-02-13,East,Mango Juice,AD,20.7,Thursday,1285,sales_2025-02-13.csv,0
+2025-02-13,East,Pepsi Max,AE,20.7,Thursday,1059,sales_2025-02-13.csv,0
+2025-02-13,East,Cola Zero,AE,20.7,Thursday,1079,sales_2025-02-13.csv,0
+2025-02-13,East,Sprite Zero,AE,20.7,Thursday,964,sales_2025-02-13.csv,0
+2025-02-13,East,Kombucha,AF,20.7,Thursday,1151,sales_2025-02-13.csv,0
+2025-02-13,East,Coconut Water,AF,20.7,Thursday,1226,sales_2025-02-13.csv,0
+2025-02-13,East,Isotonic Drink,AF,20.7,Thursday,1118,sales_2025-02-13.csv,0
+2025-02-14,North,Coca-Cola,AA,13.4,Friday,1121,sales_2025-02-14.csv,0
+2025-02-14,North,Fanta,AA,13.4,Friday,1166,sales_2025-02-14.csv,0
+2025-02-14,North,Sprite,AA,13.4,Friday,1338,sales_2025-02-14.csv,0
+2025-02-14,North,Pepsi,AA,13.4,Friday,1218,sales_2025-02-14.csv,0
+2025-02-14,North,Golden Milk,AB,13.4,Friday,903,sales_2025-02-14.csv,0
+2025-02-14,North,Almond Drink,AB,13.4,Friday,920,sales_2025-02-14.csv,0
+2025-02-14,North,Oat Latte,AB,13.4,Friday,964,sales_2025-02-14.csv,0
+2025-02-14,North,Strawberry Shake,AC,13.4,Friday,1049,sales_2025-02-14.csv,0
+2025-02-14,North,Chocolate Shake,AC,13.4,Friday,1139,sales_2025-02-14.csv,0
+2025-02-14,North,Vanilla Shake,AC,13.4,Friday,1035,sales_2025-02-14.csv,0
+2025-02-14,North,Orange Juice,AD,13.4,Friday,1280,sales_2025-02-14.csv,0
+2025-02-14,North,Apple Juice,AD,13.4,Friday,1152,sales_2025-02-14.csv,0
+2025-02-14,North,Mango Juice,AD,13.4,Friday,1318,sales_2025-02-14.csv,0
+2025-02-14,North,Pepsi Max,AE,13.4,Friday,1161,sales_2025-02-14.csv,0
+2025-02-14,North,Cola Zero,AE,13.4,Friday,1103,sales_2025-02-14.csv,0
+2025-02-14,North,Sprite Zero,AE,13.4,Friday,1226,sales_2025-02-14.csv,0
+2025-02-14,North,Kombucha,AF,13.4,Friday,939,sales_2025-02-14.csv,0
+2025-02-14,North,Coconut Water,AF,13.4,Friday,997,sales_2025-02-14.csv,0
+2025-02-14,North,Isotonic Drink,AF,13.4,Friday,1035,sales_2025-02-14.csv,0
+2025-02-14,South,Coca-Cola,AA,22.6,Friday,1135,sales_2025-02-14.csv,0
+2025-02-14,South,Fanta,AA,22.6,Friday,1212,sales_2025-02-14.csv,0
+2025-02-14,South,Sprite,AA,22.6,Friday,1288,sales_2025-02-14.csv,0
+2025-02-14,South,Pepsi,AA,22.6,Friday,1184,sales_2025-02-14.csv,0
+2025-02-14,South,Golden Milk,AB,22.6,Friday,1051,sales_2025-02-14.csv,0
+2025-02-14,South,Almond Drink,AB,22.6,Friday,997,sales_2025-02-14.csv,0
+2025-02-14,South,Oat Latte,AB,22.6,Friday,926,sales_2025-02-14.csv,0
+2025-02-14,South,Strawberry Shake,AC,22.6,Friday,1105,sales_2025-02-14.csv,0
+2025-02-14,South,Chocolate Shake,AC,22.6,Friday,1250,sales_2025-02-14.csv,0
+2025-02-14,South,Vanilla Shake,AC,22.6,Friday,1186,sales_2025-02-14.csv,0
+2025-02-14,South,Orange Juice,AD,22.6,Friday,1261,sales_2025-02-14.csv,0
+2025-02-14,South,Apple Juice,AD,22.6,Friday,1135,sales_2025-02-14.csv,0
+2025-02-14,South,Mango Juice,AD,22.6,Friday,1348,sales_2025-02-14.csv,0
+2025-02-14,South,Pepsi Max,AE,22.6,Friday,1232,sales_2025-02-14.csv,0
+2025-02-14,South,Cola Zero,AE,22.6,Friday,1148,sales_2025-02-14.csv,0
+2025-02-14,South,Sprite Zero,AE,22.6,Friday,1120,sales_2025-02-14.csv,0
+2025-02-14,South,Kombucha,AF,22.6,Friday,1027,sales_2025-02-14.csv,0
+2025-02-14,South,Coconut Water,AF,22.6,Friday,2247,sales_2025-02-14.csv,1
+2025-02-14,South,Isotonic Drink,AF,22.6,Friday,1007,sales_2025-02-14.csv,0
+2025-02-14,East,Coca-Cola,AA,19.3,Friday,1311,sales_2025-02-14.csv,0
+2025-02-14,East,Fanta,AA,19.3,Friday,1416,sales_2025-02-14.csv,0
+2025-02-14,East,Sprite,AA,19.3,Friday,1446,sales_2025-02-14.csv,0
+2025-02-14,East,Pepsi,AA,19.3,Friday,1445,sales_2025-02-14.csv,0
+2025-02-14,East,Golden Milk,AB,19.3,Friday,798,sales_2025-02-14.csv,1
+2025-02-14,East,Almond Drink,AB,19.3,Friday,798,sales_2025-02-14.csv,0
+2025-02-14,East,Oat Latte,AB,19.3,Friday,957,sales_2025-02-14.csv,0
+2025-02-14,East,Strawberry Shake,AC,19.3,Friday,899,sales_2025-02-14.csv,0
+2025-02-14,East,Chocolate Shake,AC,19.3,Friday,1056,sales_2025-02-14.csv,0
+2025-02-14,East,Vanilla Shake,AC,19.3,Friday,951,sales_2025-02-14.csv,0
+2025-02-14,East,Orange Juice,AD,19.3,Friday,1418,sales_2025-02-14.csv,0
+2025-02-14,East,Apple Juice,AD,19.3,Friday,1313,sales_2025-02-14.csv,0
+2025-02-14,East,Mango Juice,AD,19.3,Friday,1260,sales_2025-02-14.csv,0
+2025-02-14,East,Pepsi Max,AE,19.3,Friday,1164,sales_2025-02-14.csv,0
+2025-02-14,East,Cola Zero,AE,19.3,Friday,1103,sales_2025-02-14.csv,0
+2025-02-14,East,Sprite Zero,AE,19.3,Friday,1205,sales_2025-02-14.csv,0
+2025-02-14,East,Kombucha,AF,19.3,Friday,1170,sales_2025-02-14.csv,0
+2025-02-14,East,Coconut Water,AF,19.3,Friday,1091,sales_2025-02-14.csv,0
+2025-02-14,East,Isotonic Drink,AF,19.3,Friday,1076,sales_2025-02-14.csv,0
+2025-02-15,North,Coca-Cola,AA,14.1,Saturday,1319,sales_2025-02-15.csv,0
+2025-02-15,North,Fanta,AA,14.1,Saturday,1244,sales_2025-02-15.csv,0
+2025-02-15,North,Sprite,AA,14.1,Saturday,1365,sales_2025-02-15.csv,0
+2025-02-15,North,Pepsi,AA,14.1,Saturday,1278,sales_2025-02-15.csv,0
+2025-02-15,North,Golden Milk,AB,14.1,Saturday,917,sales_2025-02-15.csv,0
+2025-02-15,North,Almond Drink,AB,14.1,Saturday,909,sales_2025-02-15.csv,0
+2025-02-15,North,Oat Latte,AB,14.1,Saturday,963,sales_2025-02-15.csv,0
+2025-02-15,North,Strawberry Shake,AC,14.1,Saturday,1047,sales_2025-02-15.csv,0
+2025-02-15,North,Chocolate Shake,AC,14.1,Saturday,1104,sales_2025-02-15.csv,0
+2025-02-15,North,Vanilla Shake,AC,14.1,Saturday,1289,sales_2025-02-15.csv,0
+2025-02-15,North,Orange Juice,AD,14.1,Saturday,1250,sales_2025-02-15.csv,0
+2025-02-15,North,Apple Juice,AD,14.1,Saturday,1224,sales_2025-02-15.csv,0
+2025-02-15,North,Mango Juice,AD,14.1,Saturday,1137,sales_2025-02-15.csv,0
+2025-02-15,North,Pepsi Max,AE,14.1,Saturday,1152,sales_2025-02-15.csv,0
+2025-02-15,North,Cola Zero,AE,14.1,Saturday,1070,sales_2025-02-15.csv,0
+2025-02-15,North,Sprite Zero,AE,14.1,Saturday,1122,sales_2025-02-15.csv,0
+2025-02-15,North,Kombucha,AF,14.1,Saturday,1063,sales_2025-02-15.csv,0
+2025-02-15,North,Coconut Water,AF,14.1,Saturday,931,sales_2025-02-15.csv,0
+2025-02-15,North,Isotonic Drink,AF,14.1,Saturday,1064,sales_2025-02-15.csv,0
+2025-02-15,South,Coca-Cola,AA,23.9,Saturday,1263,sales_2025-02-15.csv,0
+2025-02-15,South,Fanta,AA,23.9,Saturday,1327,sales_2025-02-15.csv,0
+2025-02-15,South,Sprite,AA,23.9,Saturday,1226,sales_2025-02-15.csv,0
+2025-02-15,South,Pepsi,AA,23.9,Saturday,1464,sales_2025-02-15.csv,0
+2025-02-15,South,Golden Milk,AB,23.9,Saturday,946,sales_2025-02-15.csv,0
+2025-02-15,South,Almond Drink,AB,23.9,Saturday,910,sales_2025-02-15.csv,0
+2025-02-15,South,Oat Latte,AB,23.9,Saturday,912,sales_2025-02-15.csv,0
+2025-02-15,South,Strawberry Shake,AC,23.9,Saturday,1134,sales_2025-02-15.csv,0
+2025-02-15,South,Chocolate Shake,AC,23.9,Saturday,1048,sales_2025-02-15.csv,0
+2025-02-15,South,Vanilla Shake,AC,23.9,Saturday,1078,sales_2025-02-15.csv,0
+2025-02-15,South,Orange Juice,AD,23.9,Saturday,1392,sales_2025-02-15.csv,0
+2025-02-15,South,Apple Juice,AD,23.9,Saturday,3128,sales_2025-02-15.csv,1
+2025-02-15,South,Mango Juice,AD,23.9,Saturday,1210,sales_2025-02-15.csv,0
+2025-02-15,South,Pepsi Max,AE,23.9,Saturday,1074,sales_2025-02-15.csv,0
+2025-02-15,South,Cola Zero,AE,23.9,Saturday,1232,sales_2025-02-15.csv,0
+2025-02-15,South,Sprite Zero,AE,23.9,Saturday,1138,sales_2025-02-15.csv,0
+2025-02-15,South,Kombucha,AF,23.9,Saturday,1037,sales_2025-02-15.csv,0
+2025-02-15,South,Coconut Water,AF,23.9,Saturday,1141,sales_2025-02-15.csv,0
+2025-02-15,South,Isotonic Drink,AF,23.9,Saturday,1142,sales_2025-02-15.csv,0
+2025-02-15,East,Coca-Cola,AA,15.6,Saturday,1148,sales_2025-02-15.csv,0
+2025-02-15,East,Fanta,AA,15.6,Saturday,1106,sales_2025-02-15.csv,0
+2025-02-15,East,Sprite,AA,15.6,Saturday,1090,sales_2025-02-15.csv,0
+2025-02-15,East,Pepsi,AA,15.6,Saturday,1197,sales_2025-02-15.csv,0
+2025-02-15,East,Golden Milk,AB,15.6,Saturday,929,sales_2025-02-15.csv,0
+2025-02-15,East,Almond Drink,AB,15.6,Saturday,1122,sales_2025-02-15.csv,0
+2025-02-15,East,Oat Latte,AB,15.6,Saturday,996,sales_2025-02-15.csv,0
+2025-02-15,East,Strawberry Shake,AC,15.6,Saturday,1034,sales_2025-02-15.csv,0
+2025-02-15,East,Chocolate Shake,AC,15.6,Saturday,1269,sales_2025-02-15.csv,0
+2025-02-15,East,Vanilla Shake,AC,15.6,Saturday,1181,sales_2025-02-15.csv,0
+2025-02-15,East,Orange Juice,AD,15.6,Saturday,1243,sales_2025-02-15.csv,0
+2025-02-15,East,Apple Juice,AD,15.6,Saturday,1242,sales_2025-02-15.csv,0
+2025-02-15,East,Mango Juice,AD,15.6,Saturday,2799,sales_2025-02-15.csv,1
+2025-02-15,East,Pepsi Max,AE,15.6,Saturday,1215,sales_2025-02-15.csv,0
+2025-02-15,East,Cola Zero,AE,15.6,Saturday,1195,sales_2025-02-15.csv,0
+2025-02-15,East,Sprite Zero,AE,15.6,Saturday,1101,sales_2025-02-15.csv,0
+2025-02-15,East,Kombucha,AF,15.6,Saturday,1041,sales_2025-02-15.csv,0
+2025-02-15,East,Coconut Water,AF,15.6,Saturday,1087,sales_2025-02-15.csv,0
+2025-02-15,East,Isotonic Drink,AF,15.6,Saturday,1000,sales_2025-02-15.csv,0
+2025-02-16,North,Coca-Cola,AA,15.7,Sunday,1431,sales_2025-02-16.csv,0
+2025-02-16,North,Fanta,AA,15.7,Sunday,1529,sales_2025-02-16.csv,0
+2025-02-16,North,Sprite,AA,15.7,Sunday,1384,sales_2025-02-16.csv,0
+2025-02-16,North,Pepsi,AA,15.7,Sunday,1382,sales_2025-02-16.csv,0
+2025-02-16,North,Golden Milk,AB,15.7,Sunday,891,sales_2025-02-16.csv,0
+2025-02-16,North,Almond Drink,AB,15.7,Sunday,892,sales_2025-02-16.csv,0
+2025-02-16,North,Oat Latte,AB,15.7,Sunday,740,sales_2025-02-16.csv,0
+2025-02-16,North,Strawberry Shake,AC,15.7,Sunday,970,sales_2025-02-16.csv,0
+2025-02-16,North,Chocolate Shake,AC,15.7,Sunday,1036,sales_2025-02-16.csv,0
+2025-02-16,North,Vanilla Shake,AC,15.7,Sunday,1014,sales_2025-02-16.csv,0
+2025-02-16,North,Orange Juice,AD,15.7,Sunday,1262,sales_2025-02-16.csv,0
+2025-02-16,North,Apple Juice,AD,15.7,Sunday,1271,sales_2025-02-16.csv,0
+2025-02-16,North,Mango Juice,AD,15.7,Sunday,2811,sales_2025-02-16.csv,1
+2025-02-16,North,Pepsi Max,AE,15.7,Sunday,1060,sales_2025-02-16.csv,0
+2025-02-16,North,Cola Zero,AE,15.7,Sunday,1080,sales_2025-02-16.csv,0
+2025-02-16,North,Sprite Zero,AE,15.7,Sunday,1078,sales_2025-02-16.csv,0
+2025-02-16,North,Kombucha,AF,15.7,Sunday,1155,sales_2025-02-16.csv,0
+2025-02-16,North,Coconut Water,AF,15.7,Sunday,1164,sales_2025-02-16.csv,0
+2025-02-16,North,Isotonic Drink,AF,15.7,Sunday,382,sales_2025-02-16.csv,1
+2025-02-16,South,Coca-Cola,AA,24.3,Sunday,1328,sales_2025-02-16.csv,0
+2025-02-16,South,Fanta,AA,24.3,Sunday,1445,sales_2025-02-16.csv,0
+2025-02-16,South,Sprite,AA,24.3,Sunday,1356,sales_2025-02-16.csv,0
+2025-02-16,South,Pepsi,AA,24.3,Sunday,1380,sales_2025-02-16.csv,0
+2025-02-16,South,Golden Milk,AB,24.3,Sunday,1005,sales_2025-02-16.csv,0
+2025-02-16,South,Almond Drink,AB,24.3,Sunday,917,sales_2025-02-16.csv,0
+2025-02-16,South,Oat Latte,AB,24.3,Sunday,928,sales_2025-02-16.csv,0
+2025-02-16,South,Strawberry Shake,AC,24.3,Sunday,936,sales_2025-02-16.csv,0
+2025-02-16,South,Chocolate Shake,AC,24.3,Sunday,1069,sales_2025-02-16.csv,0
+2025-02-16,South,Vanilla Shake,AC,24.3,Sunday,966,sales_2025-02-16.csv,0
+2025-02-16,South,Orange Juice,AD,24.3,Sunday,1373,sales_2025-02-16.csv,0
+2025-02-16,South,Apple Juice,AD,24.3,Sunday,1289,sales_2025-02-16.csv,0
+2025-02-16,South,Mango Juice,AD,24.3,Sunday,1145,sales_2025-02-16.csv,0
+2025-02-16,South,Pepsi Max,AE,24.3,Sunday,1099,sales_2025-02-16.csv,0
+2025-02-16,South,Cola Zero,AE,24.3,Sunday,1108,sales_2025-02-16.csv,0
+2025-02-16,South,Sprite Zero,AE,24.3,Sunday,1158,sales_2025-02-16.csv,0
+2025-02-16,South,Kombucha,AF,24.3,Sunday,2160,sales_2025-02-16.csv,0
+2025-02-16,South,Coconut Water,AF,24.3,Sunday,1060,sales_2025-02-16.csv,0
+2025-02-16,South,Isotonic Drink,AF,24.3,Sunday,1153,sales_2025-02-16.csv,0
+2025-02-16,East,Coca-Cola,AA,7.5,Sunday,680,sales_2025-02-16.csv,1
+2025-02-16,East,Fanta,AA,7.5,Sunday,652,sales_2025-02-16.csv,1
+2025-02-16,East,Sprite,AA,7.5,Sunday,642,sales_2025-02-16.csv,1
+2025-02-16,East,Pepsi,AA,7.5,Sunday,797,sales_2025-02-16.csv,1
+2025-02-16,East,Golden Milk,AB,7.5,Sunday,1293,sales_2025-02-16.csv,1
+2025-02-16,East,Almond Drink,AB,7.5,Sunday,1181,sales_2025-02-16.csv,0
+2025-02-16,East,Oat Latte,AB,7.5,Sunday,2812,sales_2025-02-16.csv,1
+2025-02-16,East,Strawberry Shake,AC,7.5,Sunday,1582,sales_2025-02-16.csv,1
+2025-02-16,East,Chocolate Shake,AC,7.5,Sunday,1545,sales_2025-02-16.csv,1
+2025-02-16,East,Vanilla Shake,AC,7.5,Sunday,1526,sales_2025-02-16.csv,1
+2025-02-16,East,Orange Juice,AD,7.5,Sunday,816,sales_2025-02-16.csv,0
+2025-02-16,East,Apple Juice,AD,7.5,Sunday,903,sales_2025-02-16.csv,1
+2025-02-16,East,Mango Juice,AD,7.5,Sunday,916,sales_2025-02-16.csv,0
+2025-02-16,East,Pepsi Max,AE,7.5,Sunday,1357,sales_2025-02-16.csv,0
+2025-02-16,East,Cola Zero,AE,7.5,Sunday,1196,sales_2025-02-16.csv,0
+2025-02-16,East,Sprite Zero,AE,7.5,Sunday,1361,sales_2025-02-16.csv,0
+2025-02-16,East,Kombucha,AF,7.5,Sunday,852,sales_2025-02-16.csv,0
+2025-02-16,East,Coconut Water,AF,7.5,Sunday,766,sales_2025-02-16.csv,0
+2025-02-16,East,Isotonic Drink,AF,7.5,Sunday,816,sales_2025-02-16.csv,0
+2025-02-17,North,Coca-Cola,AA,8.4,Monday,878,sales_2025-02-17.csv,0
+2025-02-17,North,Fanta,AA,8.4,Monday,941,sales_2025-02-17.csv,0
+2025-02-17,North,Sprite,AA,8.4,Monday,942,sales_2025-02-17.csv,0
+2025-02-17,North,Pepsi,AA,8.4,Monday,989,sales_2025-02-17.csv,0
+2025-02-17,North,Golden Milk,AB,8.4,Monday,1035,sales_2025-02-17.csv,0
+2025-02-17,North,Almond Drink,AB,8.4,Monday,1094,sales_2025-02-17.csv,0
+2025-02-17,North,Oat Latte,AB,8.4,Monday,1084,sales_2025-02-17.csv,0
+2025-02-17,North,Strawberry Shake,AC,8.4,Monday,1417,sales_2025-02-17.csv,0
+2025-02-17,North,Chocolate Shake,AC,8.4,Monday,1479,sales_2025-02-17.csv,1
+2025-02-17,North,Vanilla Shake,AC,8.4,Monday,1500,sales_2025-02-17.csv,0
+2025-02-17,North,Orange Juice,AD,8.4,Monday,916,sales_2025-02-17.csv,0
+2025-02-17,North,Apple Juice,AD,8.4,Monday,1023,sales_2025-02-17.csv,0
+2025-02-17,North,Mango Juice,AD,8.4,Monday,948,sales_2025-02-17.csv,0
+2025-02-17,North,Pepsi Max,AE,8.4,Monday,1257,sales_2025-02-17.csv,0
+2025-02-17,North,Cola Zero,AE,8.4,Monday,1292,sales_2025-02-17.csv,0
+2025-02-17,North,Sprite Zero,AE,8.4,Monday,1268,sales_2025-02-17.csv,0
+2025-02-17,North,Kombucha,AF,8.4,Monday,907,sales_2025-02-17.csv,0
+2025-02-17,North,Coconut Water,AF,8.4,Monday,1014,sales_2025-02-17.csv,0
+2025-02-17,North,Isotonic Drink,AF,8.4,Monday,960,sales_2025-02-17.csv,0
+2025-02-17,South,Coca-Cola,AA,22.2,Monday,1254,sales_2025-02-17.csv,0
+2025-02-17,South,Fanta,AA,22.2,Monday,1313,sales_2025-02-17.csv,0
+2025-02-17,South,Sprite,AA,22.2,Monday,512,sales_2025-02-17.csv,1
+2025-02-17,South,Pepsi,AA,22.2,Monday,1222,sales_2025-02-17.csv,0
+2025-02-17,South,Golden Milk,AB,22.2,Monday,850,sales_2025-02-17.csv,0
+2025-02-17,South,Almond Drink,AB,22.2,Monday,891,sales_2025-02-17.csv,0
+2025-02-17,South,Oat Latte,AB,22.2,Monday,984,sales_2025-02-17.csv,0
+2025-02-17,South,Strawberry Shake,AC,22.2,Monday,1015,sales_2025-02-17.csv,0
+2025-02-17,South,Chocolate Shake,AC,22.2,Monday,1129,sales_2025-02-17.csv,0
+2025-02-17,South,Vanilla Shake,AC,22.2,Monday,1108,sales_2025-02-17.csv,0
+2025-02-17,South,Orange Juice,AD,22.2,Monday,1288,sales_2025-02-17.csv,0
+2025-02-17,South,Apple Juice,AD,22.2,Monday,1126,sales_2025-02-17.csv,0
+2025-02-17,South,Mango Juice,AD,22.2,Monday,1083,sales_2025-02-17.csv,0
+2025-02-17,South,Pepsi Max,AE,22.2,Monday,1137,sales_2025-02-17.csv,0
+2025-02-17,South,Cola Zero,AE,22.2,Monday,1210,sales_2025-02-17.csv,0
+2025-02-17,South,Sprite Zero,AE,22.2,Monday,1241,sales_2025-02-17.csv,0
+2025-02-17,South,Kombucha,AF,22.2,Monday,966,sales_2025-02-17.csv,0
+2025-02-17,South,Coconut Water,AF,22.2,Monday,1063,sales_2025-02-17.csv,0
+2025-02-17,South,Isotonic Drink,AF,22.2,Monday,952,sales_2025-02-17.csv,0
+2025-02-17,East,Coca-Cola,AA,14.8,Monday,1208,sales_2025-02-17.csv,0
+2025-02-17,East,Fanta,AA,14.8,Monday,1218,sales_2025-02-17.csv,0
+2025-02-17,East,Sprite,AA,14.8,Monday,1098,sales_2025-02-17.csv,0
+2025-02-17,East,Pepsi,AA,14.8,Monday,1201,sales_2025-02-17.csv,0
+2025-02-17,East,Golden Milk,AB,14.8,Monday,885,sales_2025-02-17.csv,0
+2025-02-17,East,Almond Drink,AB,14.8,Monday,1002,sales_2025-02-17.csv,0
+2025-02-17,East,Oat Latte,AB,14.8,Monday,937,sales_2025-02-17.csv,0
+2025-02-17,East,Strawberry Shake,AC,14.8,Monday,1153,sales_2025-02-17.csv,0
+2025-02-17,East,Chocolate Shake,AC,14.8,Monday,1121,sales_2025-02-17.csv,0
+2025-02-17,East,Vanilla Shake,AC,14.8,Monday,1249,sales_2025-02-17.csv,0
+2025-02-17,East,Orange Juice,AD,14.8,Monday,1201,sales_2025-02-17.csv,0
+2025-02-17,East,Apple Juice,AD,14.8,Monday,1114,sales_2025-02-17.csv,0
+2025-02-17,East,Mango Juice,AD,14.8,Monday,1188,sales_2025-02-17.csv,0
+2025-02-17,East,Pepsi Max,AE,14.8,Monday,1212,sales_2025-02-17.csv,0
+2025-02-17,East,Cola Zero,AE,14.8,Monday,1185,sales_2025-02-17.csv,0
+2025-02-17,East,Sprite Zero,AE,14.8,Monday,1345,sales_2025-02-17.csv,0
+2025-02-17,East,Kombucha,AF,14.8,Monday,936,sales_2025-02-17.csv,0
+2025-02-17,East,Coconut Water,AF,14.8,Monday,996,sales_2025-02-17.csv,0
+2025-02-17,East,Isotonic Drink,AF,14.8,Monday,968,sales_2025-02-17.csv,0
+2025-02-18,North,Coca-Cola,AA,12.9,Tuesday,1245,sales_2025-02-18.csv,0
+2025-02-18,North,Fanta,AA,12.9,Tuesday,1213,sales_2025-02-18.csv,0
+2025-02-18,North,Sprite,AA,12.9,Tuesday,1174,sales_2025-02-18.csv,0
+2025-02-18,North,Pepsi,AA,12.9,Tuesday,1243,sales_2025-02-18.csv,0
+2025-02-18,North,Golden Milk,AB,12.9,Tuesday,1066,sales_2025-02-18.csv,0
+2025-02-18,North,Almond Drink,AB,12.9,Tuesday,1049,sales_2025-02-18.csv,0
+2025-02-18,North,Oat Latte,AB,12.9,Tuesday,997,sales_2025-02-18.csv,0
+2025-02-18,North,Strawberry Shake,AC,12.9,Tuesday,1104,sales_2025-02-18.csv,0
+2025-02-18,North,Chocolate Shake,AC,12.9,Tuesday,1168,sales_2025-02-18.csv,0
+2025-02-18,North,Vanilla Shake,AC,12.9,Tuesday,1231,sales_2025-02-18.csv,0
+2025-02-18,North,Orange Juice,AD,12.9,Tuesday,1289,sales_2025-02-18.csv,0
+2025-02-18,North,Apple Juice,AD,12.9,Tuesday,1231,sales_2025-02-18.csv,0
+2025-02-18,North,Mango Juice,AD,12.9,Tuesday,1180,sales_2025-02-18.csv,0
+2025-02-18,North,Pepsi Max,AE,12.9,Tuesday,1158,sales_2025-02-18.csv,0
+2025-02-18,North,Cola Zero,AE,12.9,Tuesday,1226,sales_2025-02-18.csv,0
+2025-02-18,North,Sprite Zero,AE,12.9,Tuesday,1220,sales_2025-02-18.csv,0
+2025-02-18,North,Kombucha,AF,12.9,Tuesday,899,sales_2025-02-18.csv,0
+2025-02-18,North,Coconut Water,AF,12.9,Tuesday,1069,sales_2025-02-18.csv,0
+2025-02-18,North,Isotonic Drink,AF,12.9,Tuesday,1072,sales_2025-02-18.csv,0
+2025-02-18,South,Coca-Cola,AA,20.3,Tuesday,1084,sales_2025-02-18.csv,0
+2025-02-18,South,Fanta,AA,20.3,Tuesday,1085,sales_2025-02-18.csv,0
+2025-02-18,South,Sprite,AA,20.3,Tuesday,1090,sales_2025-02-18.csv,0
+2025-02-18,South,Pepsi,AA,20.3,Tuesday,1039,sales_2025-02-18.csv,0
+2025-02-18,South,Golden Milk,AB,20.3,Tuesday,1053,sales_2025-02-18.csv,0
+2025-02-18,South,Almond Drink,AB,20.3,Tuesday,976,sales_2025-02-18.csv,0
+2025-02-18,South,Oat Latte,AB,20.3,Tuesday,1026,sales_2025-02-18.csv,0
+2025-02-18,South,Strawberry Shake,AC,20.3,Tuesday,1200,sales_2025-02-18.csv,0
+2025-02-18,South,Chocolate Shake,AC,20.3,Tuesday,1253,sales_2025-02-18.csv,0
+2025-02-18,South,Vanilla Shake,AC,20.3,Tuesday,1164,sales_2025-02-18.csv,0
+2025-02-18,South,Orange Juice,AD,20.3,Tuesday,1159,sales_2025-02-18.csv,0
+2025-02-18,South,Apple Juice,AD,20.3,Tuesday,1169,sales_2025-02-18.csv,0
+2025-02-18,South,Mango Juice,AD,20.3,Tuesday,1200,sales_2025-02-18.csv,0
+2025-02-18,South,Pepsi Max,AE,20.3,Tuesday,1342,sales_2025-02-18.csv,0
+2025-02-18,South,Cola Zero,AE,20.3,Tuesday,1058,sales_2025-02-18.csv,0
+2025-02-18,South,Sprite Zero,AE,20.3,Tuesday,1226,sales_2025-02-18.csv,0
+2025-02-18,South,Kombucha,AF,20.3,Tuesday,933,sales_2025-02-18.csv,0
+2025-02-18,South,Coconut Water,AF,20.3,Tuesday,848,sales_2025-02-18.csv,0
+2025-02-18,South,Isotonic Drink,AF,20.3,Tuesday,1041,sales_2025-02-18.csv,0
+2025-02-18,East,Coca-Cola,AA,21.0,Tuesday,1513,sales_2025-02-18.csv,0
+2025-02-18,East,Fanta,AA,21.0,Tuesday,1555,sales_2025-02-18.csv,0
+2025-02-18,East,Sprite,AA,21.0,Tuesday,1536,sales_2025-02-18.csv,0
+2025-02-18,East,Pepsi,AA,21.0,Tuesday,1570,sales_2025-02-18.csv,0
+2025-02-18,East,Golden Milk,AB,21.0,Tuesday,892,sales_2025-02-18.csv,0
+2025-02-18,East,Almond Drink,AB,21.0,Tuesday,854,sales_2025-02-18.csv,0
+2025-02-18,East,Oat Latte,AB,21.0,Tuesday,854,sales_2025-02-18.csv,0
+2025-02-18,East,Strawberry Shake,AC,21.0,Tuesday,988,sales_2025-02-18.csv,0
+2025-02-18,East,Chocolate Shake,AC,21.0,Tuesday,888,sales_2025-02-18.csv,0
+2025-02-18,East,Vanilla Shake,AC,21.0,Tuesday,965,sales_2025-02-18.csv,0
+2025-02-18,East,Orange Juice,AD,21.0,Tuesday,1352,sales_2025-02-18.csv,0
+2025-02-18,East,Apple Juice,AD,21.0,Tuesday,1522,sales_2025-02-18.csv,0
+2025-02-18,East,Mango Juice,AD,21.0,Tuesday,1462,sales_2025-02-18.csv,0
+2025-02-18,East,Pepsi Max,AE,21.0,Tuesday,1042,sales_2025-02-18.csv,0
+2025-02-18,East,Cola Zero,AE,21.0,Tuesday,922,sales_2025-02-18.csv,0
+2025-02-18,East,Sprite Zero,AE,21.0,Tuesday,1070,sales_2025-02-18.csv,0
+2025-02-18,East,Kombucha,AF,21.0,Tuesday,1067,sales_2025-02-18.csv,0
+2025-02-18,East,Coconut Water,AF,21.0,Tuesday,1171,sales_2025-02-18.csv,0
+2025-02-18,East,Isotonic Drink,AF,21.0,Tuesday,1252,sales_2025-02-18.csv,0
+2025-02-19,North,Coca-Cola,AA,14.5,Wednesday,1318,sales_2025-02-19.csv,0
+2025-02-19,North,Fanta,AA,14.5,Wednesday,1354,sales_2025-02-19.csv,0
+2025-02-19,North,Sprite,AA,14.5,Wednesday,1350,sales_2025-02-19.csv,0
+2025-02-19,North,Pepsi,AA,14.5,Wednesday,1165,sales_2025-02-19.csv,0
+2025-02-19,North,Golden Milk,AB,14.5,Wednesday,952,sales_2025-02-19.csv,0
+2025-02-19,North,Almond Drink,AB,14.5,Wednesday,533,sales_2025-02-19.csv,1
+2025-02-19,North,Oat Latte,AB,14.5,Wednesday,917,sales_2025-02-19.csv,0
+2025-02-19,North,Strawberry Shake,AC,14.5,Wednesday,1143,sales_2025-02-19.csv,0
+2025-02-19,North,Chocolate Shake,AC,14.5,Wednesday,1066,sales_2025-02-19.csv,0
+2025-02-19,North,Vanilla Shake,AC,14.5,Wednesday,1129,sales_2025-02-19.csv,0
+2025-02-19,North,Orange Juice,AD,14.5,Wednesday,1429,sales_2025-02-19.csv,0
+2025-02-19,North,Apple Juice,AD,14.5,Wednesday,1263,sales_2025-02-19.csv,0
+2025-02-19,North,Mango Juice,AD,14.5,Wednesday,1134,sales_2025-02-19.csv,0
+2025-02-19,North,Pepsi Max,AE,14.5,Wednesday,1116,sales_2025-02-19.csv,0
+2025-02-19,North,Cola Zero,AE,14.5,Wednesday,2126,sales_2025-02-19.csv,1
+2025-02-19,North,Sprite Zero,AE,14.5,Wednesday,1183,sales_2025-02-19.csv,0
+2025-02-19,North,Kombucha,AF,14.5,Wednesday,1154,sales_2025-02-19.csv,0
+2025-02-19,North,Coconut Water,AF,14.5,Wednesday,1111,sales_2025-02-19.csv,0
+2025-02-19,North,Isotonic Drink,AF,14.5,Wednesday,1085,sales_2025-02-19.csv,0
+2025-02-19,South,Coca-Cola,AA,21.1,Wednesday,1296,sales_2025-02-19.csv,0
+2025-02-19,South,Fanta,AA,21.1,Wednesday,1239,sales_2025-02-19.csv,0
+2025-02-19,South,Sprite,AA,21.1,Wednesday,1206,sales_2025-02-19.csv,0
+2025-02-19,South,Pepsi,AA,21.1,Wednesday,1200,sales_2025-02-19.csv,0
+2025-02-19,South,Golden Milk,AB,21.1,Wednesday,1015,sales_2025-02-19.csv,0
+2025-02-19,South,Almond Drink,AB,21.1,Wednesday,1039,sales_2025-02-19.csv,0
+2025-02-19,South,Oat Latte,AB,21.1,Wednesday,964,sales_2025-02-19.csv,0
+2025-02-19,South,Strawberry Shake,AC,21.1,Wednesday,1302,sales_2025-02-19.csv,0
+2025-02-19,South,Chocolate Shake,AC,21.1,Wednesday,1206,sales_2025-02-19.csv,0
+2025-02-19,South,Vanilla Shake,AC,21.1,Wednesday,1237,sales_2025-02-19.csv,0
+2025-02-19,South,Orange Juice,AD,21.1,Wednesday,1144,sales_2025-02-19.csv,0
+2025-02-19,South,Apple Juice,AD,21.1,Wednesday,1200,sales_2025-02-19.csv,0
+2025-02-19,South,Mango Juice,AD,21.1,Wednesday,424,sales_2025-02-19.csv,1
+2025-02-19,South,Pepsi Max,AE,21.1,Wednesday,1110,sales_2025-02-19.csv,0
+2025-02-19,South,Cola Zero,AE,21.1,Wednesday,1186,sales_2025-02-19.csv,0
+2025-02-19,South,Sprite Zero,AE,21.1,Wednesday,1095,sales_2025-02-19.csv,0
+2025-02-19,South,Kombucha,AF,21.1,Wednesday,2543,sales_2025-02-19.csv,1
+2025-02-19,South,Coconut Water,AF,21.1,Wednesday,886,sales_2025-02-19.csv,0
+2025-02-19,South,Isotonic Drink,AF,21.1,Wednesday,1027,sales_2025-02-19.csv,0
+2025-02-19,East,Coca-Cola,AA,22.0,Wednesday,1634,sales_2025-02-19.csv,0
+2025-02-19,East,Fanta,AA,22.0,Wednesday,1578,sales_2025-02-19.csv,0
+2025-02-19,East,Sprite,AA,22.0,Wednesday,1561,sales_2025-02-19.csv,0
+2025-02-19,East,Pepsi,AA,22.0,Wednesday,1647,sales_2025-02-19.csv,1
+2025-02-19,East,Golden Milk,AB,22.0,Wednesday,744,sales_2025-02-19.csv,1
+2025-02-19,East,Almond Drink,AB,22.0,Wednesday,792,sales_2025-02-19.csv,0
+2025-02-19,East,Oat Latte,AB,22.0,Wednesday,848,sales_2025-02-19.csv,0
+2025-02-19,East,Strawberry Shake,AC,22.0,Wednesday,828,sales_2025-02-19.csv,0
+2025-02-19,East,Chocolate Shake,AC,22.0,Wednesday,856,sales_2025-02-19.csv,0
+2025-02-19,East,Vanilla Shake,AC,22.0,Wednesday,829,sales_2025-02-19.csv,0
+2025-02-19,East,Orange Juice,AD,22.0,Wednesday,2550,sales_2025-02-19.csv,1
+2025-02-19,East,Apple Juice,AD,22.0,Wednesday,1533,sales_2025-02-19.csv,0
+2025-02-19,East,Mango Juice,AD,22.0,Wednesday,1548,sales_2025-02-19.csv,1
+2025-02-19,East,Pepsi Max,AE,22.0,Wednesday,1028,sales_2025-02-19.csv,0
+2025-02-19,East,Cola Zero,AE,22.0,Wednesday,1031,sales_2025-02-19.csv,0
+2025-02-19,East,Sprite Zero,AE,22.0,Wednesday,1038,sales_2025-02-19.csv,0
+2025-02-19,East,Kombucha,AF,22.0,Wednesday,1213,sales_2025-02-19.csv,0
+2025-02-19,East,Coconut Water,AF,22.0,Wednesday,1112,sales_2025-02-19.csv,0
+2025-02-19,East,Isotonic Drink,AF,22.0,Wednesday,1169,sales_2025-02-19.csv,0
+2025-02-20,North,Coca-Cola,AA,14.8,Thursday,1393,sales_2025-02-20.csv,0
+2025-02-20,North,Fanta,AA,14.8,Thursday,1153,sales_2025-02-20.csv,0
+2025-02-20,North,Sprite,AA,14.8,Thursday,1376,sales_2025-02-20.csv,0
+2025-02-20,North,Pepsi,AA,14.8,Thursday,1372,sales_2025-02-20.csv,0
+2025-02-20,North,Golden Milk,AB,14.8,Thursday,997,sales_2025-02-20.csv,0
+2025-02-20,North,Almond Drink,AB,14.8,Thursday,889,sales_2025-02-20.csv,0
+2025-02-20,North,Oat Latte,AB,14.8,Thursday,890,sales_2025-02-20.csv,0
+2025-02-20,North,Strawberry Shake,AC,14.8,Thursday,1144,sales_2025-02-20.csv,0
+2025-02-20,North,Chocolate Shake,AC,14.8,Thursday,951,sales_2025-02-20.csv,0
+2025-02-20,North,Vanilla Shake,AC,14.8,Thursday,1174,sales_2025-02-20.csv,0
+2025-02-20,North,Orange Juice,AD,14.8,Thursday,456,sales_2025-02-20.csv,1
+2025-02-20,North,Apple Juice,AD,14.8,Thursday,1315,sales_2025-02-20.csv,0
+2025-02-20,North,Mango Juice,AD,14.8,Thursday,1339,sales_2025-02-20.csv,0
+2025-02-20,North,Pepsi Max,AE,14.8,Thursday,1030,sales_2025-02-20.csv,0
+2025-02-20,North,Cola Zero,AE,14.8,Thursday,1085,sales_2025-02-20.csv,0
+2025-02-20,North,Sprite Zero,AE,14.8,Thursday,1208,sales_2025-02-20.csv,0
+2025-02-20,North,Kombucha,AF,14.8,Thursday,1095,sales_2025-02-20.csv,0
+2025-02-20,North,Coconut Water,AF,14.8,Thursday,1057,sales_2025-02-20.csv,0
+2025-02-20,North,Isotonic Drink,AF,14.8,Thursday,1086,sales_2025-02-20.csv,0
+2025-02-20,South,Coca-Cola,AA,24.5,Thursday,1369,sales_2025-02-20.csv,0
+2025-02-20,South,Fanta,AA,24.5,Thursday,1388,sales_2025-02-20.csv,0
+2025-02-20,South,Sprite,AA,24.5,Thursday,1387,sales_2025-02-20.csv,0
+2025-02-20,South,Pepsi,AA,24.5,Thursday,1316,sales_2025-02-20.csv,0
+2025-02-20,South,Golden Milk,AB,24.5,Thursday,928,sales_2025-02-20.csv,0
+2025-02-20,South,Almond Drink,AB,24.5,Thursday,1031,sales_2025-02-20.csv,0
+2025-02-20,South,Oat Latte,AB,24.5,Thursday,1026,sales_2025-02-20.csv,0
+2025-02-20,South,Strawberry Shake,AC,24.5,Thursday,922,sales_2025-02-20.csv,0
+2025-02-20,South,Chocolate Shake,AC,24.5,Thursday,1065,sales_2025-02-20.csv,0
+2025-02-20,South,Vanilla Shake,AC,24.5,Thursday,405,sales_2025-02-20.csv,1
+2025-02-20,South,Orange Juice,AD,24.5,Thursday,1281,sales_2025-02-20.csv,0
+2025-02-20,South,Apple Juice,AD,24.5,Thursday,1243,sales_2025-02-20.csv,0
+2025-02-20,South,Mango Juice,AD,24.5,Thursday,1218,sales_2025-02-20.csv,0
+2025-02-20,South,Pepsi Max,AE,24.5,Thursday,1089,sales_2025-02-20.csv,0
+2025-02-20,South,Cola Zero,AE,24.5,Thursday,1145,sales_2025-02-20.csv,0
+2025-02-20,South,Sprite Zero,AE,24.5,Thursday,1109,sales_2025-02-20.csv,0
+2025-02-20,South,Kombucha,AF,24.5,Thursday,1045,sales_2025-02-20.csv,0
+2025-02-20,South,Coconut Water,AF,24.5,Thursday,1000,sales_2025-02-20.csv,0
+2025-02-20,South,Isotonic Drink,AF,24.5,Thursday,1112,sales_2025-02-20.csv,0
+2025-02-20,East,Coca-Cola,AA,20.2,Thursday,1427,sales_2025-02-20.csv,0
+2025-02-20,East,Fanta,AA,20.2,Thursday,1523,sales_2025-02-20.csv,0
+2025-02-20,East,Sprite,AA,20.2,Thursday,1360,sales_2025-02-20.csv,0
+2025-02-20,East,Pepsi,AA,20.2,Thursday,1446,sales_2025-02-20.csv,0
+2025-02-20,East,Golden Milk,AB,20.2,Thursday,905,sales_2025-02-20.csv,0
+2025-02-20,East,Almond Drink,AB,20.2,Thursday,776,sales_2025-02-20.csv,0
+2025-02-20,East,Oat Latte,AB,20.2,Thursday,812,sales_2025-02-20.csv,0
+2025-02-20,East,Strawberry Shake,AC,20.2,Thursday,1039,sales_2025-02-20.csv,0
+2025-02-20,East,Chocolate Shake,AC,20.2,Thursday,889,sales_2025-02-20.csv,0
+2025-02-20,East,Vanilla Shake,AC,20.2,Thursday,880,sales_2025-02-20.csv,0
+2025-02-20,East,Orange Juice,AD,20.2,Thursday,1418,sales_2025-02-20.csv,0
+2025-02-20,East,Apple Juice,AD,20.2,Thursday,1515,sales_2025-02-20.csv,0
+2025-02-20,East,Mango Juice,AD,20.2,Thursday,1361,sales_2025-02-20.csv,0
+2025-02-20,East,Pepsi Max,AE,20.2,Thursday,1140,sales_2025-02-20.csv,0
+2025-02-20,East,Cola Zero,AE,20.2,Thursday,1180,sales_2025-02-20.csv,0
+2025-02-20,East,Sprite Zero,AE,20.2,Thursday,1109,sales_2025-02-20.csv,0
+2025-02-20,East,Kombucha,AF,20.2,Thursday,1111,sales_2025-02-20.csv,0
+2025-02-20,East,Coconut Water,AF,20.2,Thursday,1069,sales_2025-02-20.csv,0
+2025-02-20,East,Isotonic Drink,AF,20.2,Thursday,1030,sales_2025-02-20.csv,0
+2025-02-21,North,Coca-Cola,AA,17.3,Friday,1511,sales_2025-02-21.csv,0
+2025-02-21,North,Fanta,AA,17.3,Friday,1591,sales_2025-02-21.csv,0
+2025-02-21,North,Sprite,AA,17.3,Friday,1567,sales_2025-02-21.csv,0
+2025-02-21,North,Pepsi,AA,17.3,Friday,1455,sales_2025-02-21.csv,0
+2025-02-21,North,Golden Milk,AB,17.3,Friday,768,sales_2025-02-21.csv,0
+2025-02-21,North,Almond Drink,AB,17.3,Friday,880,sales_2025-02-21.csv,0
+2025-02-21,North,Oat Latte,AB,17.3,Friday,807,sales_2025-02-21.csv,0
+2025-02-21,North,Strawberry Shake,AC,17.3,Friday,961,sales_2025-02-21.csv,0
+2025-02-21,North,Chocolate Shake,AC,17.3,Friday,884,sales_2025-02-21.csv,0
+2025-02-21,North,Vanilla Shake,AC,17.3,Friday,875,sales_2025-02-21.csv,0
+2025-02-21,North,Orange Juice,AD,17.3,Friday,1372,sales_2025-02-21.csv,0
+2025-02-21,North,Apple Juice,AD,17.3,Friday,1447,sales_2025-02-21.csv,0
+2025-02-21,North,Mango Juice,AD,17.3,Friday,1403,sales_2025-02-21.csv,0
+2025-02-21,North,Pepsi Max,AE,17.3,Friday,1166,sales_2025-02-21.csv,0
+2025-02-21,North,Cola Zero,AE,17.3,Friday,998,sales_2025-02-21.csv,0
+2025-02-21,North,Sprite Zero,AE,17.3,Friday,1010,sales_2025-02-21.csv,0
+2025-02-21,North,Kombucha,AF,17.3,Friday,1126,sales_2025-02-21.csv,0
+2025-02-21,North,Coconut Water,AF,17.3,Friday,1284,sales_2025-02-21.csv,1
+2025-02-21,North,Isotonic Drink,AF,17.3,Friday,1180,sales_2025-02-21.csv,0
+2025-02-21,South,Coca-Cola,AA,19.8,Friday,1103,sales_2025-02-21.csv,0
+2025-02-21,South,Fanta,AA,19.8,Friday,1123,sales_2025-02-21.csv,0
+2025-02-21,South,Sprite,AA,19.8,Friday,1068,sales_2025-02-21.csv,0
+2025-02-21,South,Pepsi,AA,19.8,Friday,1151,sales_2025-02-21.csv,0
+2025-02-21,South,Golden Milk,AB,19.8,Friday,1035,sales_2025-02-21.csv,0
+2025-02-21,South,Almond Drink,AB,19.8,Friday,1025,sales_2025-02-21.csv,0
+2025-02-21,South,Oat Latte,AB,19.8,Friday,1134,sales_2025-02-21.csv,0
+2025-02-21,South,Strawberry Shake,AC,19.8,Friday,464,sales_2025-02-21.csv,1
+2025-02-21,South,Chocolate Shake,AC,19.8,Friday,1193,sales_2025-02-21.csv,0
+2025-02-21,South,Vanilla Shake,AC,19.8,Friday,1203,sales_2025-02-21.csv,0
+2025-02-21,South,Orange Juice,AD,19.8,Friday,1063,sales_2025-02-21.csv,0
+2025-02-21,South,Apple Juice,AD,19.8,Friday,1071,sales_2025-02-21.csv,0
+2025-02-21,South,Mango Juice,AD,19.8,Friday,1156,sales_2025-02-21.csv,0
+2025-02-21,South,Pepsi Max,AE,19.8,Friday,1291,sales_2025-02-21.csv,0
+2025-02-21,South,Cola Zero,AE,19.8,Friday,1278,sales_2025-02-21.csv,0
+2025-02-21,South,Sprite Zero,AE,19.8,Friday,1143,sales_2025-02-21.csv,0
+2025-02-21,South,Kombucha,AF,19.8,Friday,962,sales_2025-02-21.csv,0
+2025-02-21,South,Coconut Water,AF,19.8,Friday,1002,sales_2025-02-21.csv,0
+2025-02-21,South,Isotonic Drink,AF,19.8,Friday,987,sales_2025-02-21.csv,0
+2025-02-21,East,Coca-Cola,AA,20.9,Friday,1487,sales_2025-02-21.csv,0
+2025-02-21,East,Fanta,AA,20.9,Friday,1545,sales_2025-02-21.csv,0
+2025-02-21,East,Sprite,AA,20.9,Friday,1506,sales_2025-02-21.csv,0
+2025-02-21,East,Pepsi,AA,20.9,Friday,1552,sales_2025-02-21.csv,0
+2025-02-21,East,Golden Milk,AB,20.9,Friday,757,sales_2025-02-21.csv,0
+2025-02-21,East,Almond Drink,AB,20.9,Friday,768,sales_2025-02-21.csv,0
+2025-02-21,East,Oat Latte,AB,20.9,Friday,782,sales_2025-02-21.csv,0
+2025-02-21,East,Strawberry Shake,AC,20.9,Friday,866,sales_2025-02-21.csv,0
+2025-02-21,East,Chocolate Shake,AC,20.9,Friday,1013,sales_2025-02-21.csv,0
+2025-02-21,East,Vanilla Shake,AC,20.9,Friday,987,sales_2025-02-21.csv,0
+2025-02-21,East,Orange Juice,AD,20.9,Friday,1391,sales_2025-02-21.csv,0
+2025-02-21,East,Apple Juice,AD,20.9,Friday,1418,sales_2025-02-21.csv,0
+2025-02-21,East,Mango Juice,AD,20.9,Friday,1294,sales_2025-02-21.csv,0
+2025-02-21,East,Pepsi Max,AE,20.9,Friday,388,sales_2025-02-21.csv,1
+2025-02-21,East,Cola Zero,AE,20.9,Friday,1083,sales_2025-02-21.csv,0
+2025-02-21,East,Sprite Zero,AE,20.9,Friday,1152,sales_2025-02-21.csv,0
+2025-02-21,East,Kombucha,AF,20.9,Friday,1170,sales_2025-02-21.csv,0
+2025-02-21,East,Coconut Water,AF,20.9,Friday,1178,sales_2025-02-21.csv,0
+2025-02-21,East,Isotonic Drink,AF,20.9,Friday,1168,sales_2025-02-21.csv,0
+2025-02-22,North,Coca-Cola,AA,14.8,Saturday,1250,sales_2025-02-22.csv,0
+2025-02-22,North,Fanta,AA,14.8,Saturday,2671,sales_2025-02-22.csv,1
+2025-02-22,North,Sprite,AA,14.8,Saturday,1448,sales_2025-02-22.csv,0
+2025-02-22,North,Pepsi,AA,14.8,Saturday,1406,sales_2025-02-22.csv,0
+2025-02-22,North,Golden Milk,AB,14.8,Saturday,961,sales_2025-02-22.csv,0
+2025-02-22,North,Almond Drink,AB,14.8,Saturday,931,sales_2025-02-22.csv,0
+2025-02-22,North,Oat Latte,AB,14.8,Saturday,972,sales_2025-02-22.csv,0
+2025-02-22,North,Strawberry Shake,AC,14.8,Saturday,994,sales_2025-02-22.csv,0
+2025-02-22,North,Chocolate Shake,AC,14.8,Saturday,949,sales_2025-02-22.csv,0
+2025-02-22,North,Vanilla Shake,AC,14.8,Saturday,1033,sales_2025-02-22.csv,0
+2025-02-22,North,Orange Juice,AD,14.8,Saturday,1320,sales_2025-02-22.csv,0
+2025-02-22,North,Apple Juice,AD,14.8,Saturday,1290,sales_2025-02-22.csv,0
+2025-02-22,North,Mango Juice,AD,14.8,Saturday,1353,sales_2025-02-22.csv,0
+2025-02-22,North,Pepsi Max,AE,14.8,Saturday,1159,sales_2025-02-22.csv,0
+2025-02-22,North,Cola Zero,AE,14.8,Saturday,1137,sales_2025-02-22.csv,0
+2025-02-22,North,Sprite Zero,AE,14.8,Saturday,1227,sales_2025-02-22.csv,0
+2025-02-22,North,Kombucha,AF,14.8,Saturday,2481,sales_2025-02-22.csv,1
+2025-02-22,North,Coconut Water,AF,14.8,Saturday,1063,sales_2025-02-22.csv,0
+2025-02-22,North,Isotonic Drink,AF,14.8,Saturday,993,sales_2025-02-22.csv,0
+2025-02-22,South,Coca-Cola,AA,20.3,Saturday,1127,sales_2025-02-22.csv,0
+2025-02-22,South,Fanta,AA,20.3,Saturday,1112,sales_2025-02-22.csv,0
+2025-02-22,South,Sprite,AA,20.3,Saturday,1254,sales_2025-02-22.csv,0
+2025-02-22,South,Pepsi,AA,20.3,Saturday,1020,sales_2025-02-22.csv,0
+2025-02-22,South,Golden Milk,AB,20.3,Saturday,1027,sales_2025-02-22.csv,0
+2025-02-22,South,Almond Drink,AB,20.3,Saturday,956,sales_2025-02-22.csv,0
+2025-02-22,South,Oat Latte,AB,20.3,Saturday,1039,sales_2025-02-22.csv,0
+2025-02-22,South,Strawberry Shake,AC,20.3,Saturday,1262,sales_2025-02-22.csv,0
+2025-02-22,South,Chocolate Shake,AC,20.3,Saturday,1207,sales_2025-02-22.csv,0
+2025-02-22,South,Vanilla Shake,AC,20.3,Saturday,1272,sales_2025-02-22.csv,0
+2025-02-22,South,Orange Juice,AD,20.3,Saturday,1128,sales_2025-02-22.csv,0
+2025-02-22,South,Apple Juice,AD,20.3,Saturday,1129,sales_2025-02-22.csv,0
+2025-02-22,South,Mango Juice,AD,20.3,Saturday,1113,sales_2025-02-22.csv,0
+2025-02-22,South,Pepsi Max,AE,20.3,Saturday,1250,sales_2025-02-22.csv,0
+2025-02-22,South,Cola Zero,AE,20.3,Saturday,1214,sales_2025-02-22.csv,0
+2025-02-22,South,Sprite Zero,AE,20.3,Saturday,1314,sales_2025-02-22.csv,0
+2025-02-22,South,Kombucha,AF,20.3,Saturday,1071,sales_2025-02-22.csv,0
+2025-02-22,South,Coconut Water,AF,20.3,Saturday,1021,sales_2025-02-22.csv,0
+2025-02-22,South,Isotonic Drink,AF,20.3,Saturday,831,sales_2025-02-22.csv,0
+2025-02-22,East,Coca-Cola,AA,12.5,Saturday,1099,sales_2025-02-22.csv,0
+2025-02-22,East,Fanta,AA,12.5,Saturday,1828,sales_2025-02-22.csv,1
+2025-02-22,East,Sprite,AA,12.5,Saturday,1046,sales_2025-02-22.csv,0
+2025-02-22,East,Pepsi,AA,12.5,Saturday,986,sales_2025-02-22.csv,0
+2025-02-22,East,Golden Milk,AB,12.5,Saturday,1121,sales_2025-02-22.csv,0
+2025-02-22,East,Almond Drink,AB,12.5,Saturday,2764,sales_2025-02-22.csv,1
+2025-02-22,East,Oat Latte,AB,12.5,Saturday,1000,sales_2025-02-22.csv,0
+2025-02-22,East,Strawberry Shake,AC,12.5,Saturday,1268,sales_2025-02-22.csv,0
+2025-02-22,East,Chocolate Shake,AC,12.5,Saturday,1209,sales_2025-02-22.csv,0
+2025-02-22,East,Vanilla Shake,AC,12.5,Saturday,1341,sales_2025-02-22.csv,0
+2025-02-22,East,Orange Juice,AD,12.5,Saturday,953,sales_2025-02-22.csv,0
+2025-02-22,East,Apple Juice,AD,12.5,Saturday,1044,sales_2025-02-22.csv,0
+2025-02-22,East,Mango Juice,AD,12.5,Saturday,1106,sales_2025-02-22.csv,0
+2025-02-22,East,Pepsi Max,AE,12.5,Saturday,1384,sales_2025-02-22.csv,0
+2025-02-22,East,Cola Zero,AE,12.5,Saturday,1266,sales_2025-02-22.csv,0
+2025-02-22,East,Sprite Zero,AE,12.5,Saturday,1328,sales_2025-02-22.csv,0
+2025-02-22,East,Kombucha,AF,12.5,Saturday,2076,sales_2025-02-22.csv,1
+2025-02-22,East,Coconut Water,AF,12.5,Saturday,959,sales_2025-02-22.csv,0
+2025-02-22,East,Isotonic Drink,AF,12.5,Saturday,923,sales_2025-02-22.csv,0
+2025-02-23,North,Coca-Cola,AA,12.9,Sunday,1316,sales_2025-02-23.csv,0
+2025-02-23,North,Fanta,AA,12.9,Sunday,1260,sales_2025-02-23.csv,0
+2025-02-23,North,Sprite,AA,12.9,Sunday,1258,sales_2025-02-23.csv,0
+2025-02-23,North,Pepsi,AA,12.9,Sunday,1191,sales_2025-02-23.csv,0
+2025-02-23,North,Golden Milk,AB,12.9,Sunday,959,sales_2025-02-23.csv,0
+2025-02-23,North,Almond Drink,AB,12.9,Sunday,1128,sales_2025-02-23.csv,0
+2025-02-23,North,Oat Latte,AB,12.9,Sunday,1939,sales_2025-02-23.csv,1
+2025-02-23,North,Strawberry Shake,AC,12.9,Sunday,1248,sales_2025-02-23.csv,0
+2025-02-23,North,Chocolate Shake,AC,12.9,Sunday,1119,sales_2025-02-23.csv,0
+2025-02-23,North,Vanilla Shake,AC,12.9,Sunday,1211,sales_2025-02-23.csv,0
+2025-02-23,North,Orange Juice,AD,12.9,Sunday,1226,sales_2025-02-23.csv,0
+2025-02-23,North,Apple Juice,AD,12.9,Sunday,1178,sales_2025-02-23.csv,0
+2025-02-23,North,Mango Juice,AD,12.9,Sunday,1251,sales_2025-02-23.csv,0
+2025-02-23,North,Pepsi Max,AE,12.9,Sunday,1064,sales_2025-02-23.csv,0
+2025-02-23,North,Cola Zero,AE,12.9,Sunday,1212,sales_2025-02-23.csv,0
+2025-02-23,North,Sprite Zero,AE,12.9,Sunday,1227,sales_2025-02-23.csv,0
+2025-02-23,North,Kombucha,AF,12.9,Sunday,1042,sales_2025-02-23.csv,0
+2025-02-23,North,Coconut Water,AF,12.9,Sunday,1114,sales_2025-02-23.csv,0
+2025-02-23,North,Isotonic Drink,AF,12.9,Sunday,1018,sales_2025-02-23.csv,0
+2025-02-23,South,Coca-Cola,AA,22.6,Sunday,1301,sales_2025-02-23.csv,0
+2025-02-23,South,Fanta,AA,22.6,Sunday,1337,sales_2025-02-23.csv,0
+2025-02-23,South,Sprite,AA,22.6,Sunday,1316,sales_2025-02-23.csv,0
+2025-02-23,South,Pepsi,AA,22.6,Sunday,1260,sales_2025-02-23.csv,0
+2025-02-23,South,Golden Milk,AB,22.6,Sunday,892,sales_2025-02-23.csv,0
+2025-02-23,South,Almond Drink,AB,22.6,Sunday,1008,sales_2025-02-23.csv,0
+2025-02-23,South,Oat Latte,AB,22.6,Sunday,907,sales_2025-02-23.csv,0
+2025-02-23,South,Strawberry Shake,AC,22.6,Sunday,1063,sales_2025-02-23.csv,0
+2025-02-23,South,Chocolate Shake,AC,22.6,Sunday,1074,sales_2025-02-23.csv,0
+2025-02-23,South,Vanilla Shake,AC,22.6,Sunday,1124,sales_2025-02-23.csv,0
+2025-02-23,South,Orange Juice,AD,22.6,Sunday,1178,sales_2025-02-23.csv,0
+2025-02-23,South,Apple Juice,AD,22.6,Sunday,1155,sales_2025-02-23.csv,0
+2025-02-23,South,Mango Juice,AD,22.6,Sunday,1188,sales_2025-02-23.csv,0
+2025-02-23,South,Pepsi Max,AE,22.6,Sunday,1145,sales_2025-02-23.csv,0
+2025-02-23,South,Cola Zero,AE,22.6,Sunday,1190,sales_2025-02-23.csv,0
+2025-02-23,South,Sprite Zero,AE,22.6,Sunday,1163,sales_2025-02-23.csv,0
+2025-02-23,South,Kombucha,AF,22.6,Sunday,964,sales_2025-02-23.csv,0
+2025-02-23,South,Coconut Water,AF,22.6,Sunday,1056,sales_2025-02-23.csv,0
+2025-02-23,South,Isotonic Drink,AF,22.6,Sunday,1063,sales_2025-02-23.csv,0
+2025-02-23,East,Coca-Cola,AA,15.6,Sunday,1160,sales_2025-02-23.csv,0
+2025-02-23,East,Fanta,AA,15.6,Sunday,1160,sales_2025-02-23.csv,0
+2025-02-23,East,Sprite,AA,15.6,Sunday,1179,sales_2025-02-23.csv,0
+2025-02-23,East,Pepsi,AA,15.6,Sunday,1371,sales_2025-02-23.csv,0
+2025-02-23,East,Golden Milk,AB,15.6,Sunday,930,sales_2025-02-23.csv,0
+2025-02-23,East,Almond Drink,AB,15.6,Sunday,1011,sales_2025-02-23.csv,0
+2025-02-23,East,Oat Latte,AB,15.6,Sunday,942,sales_2025-02-23.csv,0
+2025-02-23,East,Strawberry Shake,AC,15.6,Sunday,1135,sales_2025-02-23.csv,0
+2025-02-23,East,Chocolate Shake,AC,15.6,Sunday,1121,sales_2025-02-23.csv,0
+2025-02-23,East,Vanilla Shake,AC,15.6,Sunday,1226,sales_2025-02-23.csv,0
+2025-02-23,East,Orange Juice,AD,15.6,Sunday,1221,sales_2025-02-23.csv,0
+2025-02-23,East,Apple Juice,AD,15.6,Sunday,1185,sales_2025-02-23.csv,0
+2025-02-23,East,Mango Juice,AD,15.6,Sunday,708,sales_2025-02-23.csv,0
+2025-02-23,East,Pepsi Max,AE,15.6,Sunday,1230,sales_2025-02-23.csv,0
+2025-02-23,East,Cola Zero,AE,15.6,Sunday,1118,sales_2025-02-23.csv,0
+2025-02-23,East,Sprite Zero,AE,15.6,Sunday,1216,sales_2025-02-23.csv,0
+2025-02-23,East,Kombucha,AF,15.6,Sunday,965,sales_2025-02-23.csv,0
+2025-02-23,East,Coconut Water,AF,15.6,Sunday,1074,sales_2025-02-23.csv,0
+2025-02-23,East,Isotonic Drink,AF,15.6,Sunday,1067,sales_2025-02-23.csv,0
+2025-02-24,North,Coca-Cola,AA,15.2,Monday,1357,sales_2025-02-24.csv,0
+2025-02-24,North,Fanta,AA,15.2,Monday,564,sales_2025-02-24.csv,1
+2025-02-24,North,Sprite,AA,15.2,Monday,1354,sales_2025-02-24.csv,0
+2025-02-24,North,Pepsi,AA,15.2,Monday,1426,sales_2025-02-24.csv,0
+2025-02-24,North,Golden Milk,AB,15.2,Monday,866,sales_2025-02-24.csv,0
+2025-02-24,North,Almond Drink,AB,15.2,Monday,917,sales_2025-02-24.csv,0
+2025-02-24,North,Oat Latte,AB,15.2,Monday,792,sales_2025-02-24.csv,0
+2025-02-24,North,Strawberry Shake,AC,15.2,Monday,1058,sales_2025-02-24.csv,0
+2025-02-24,North,Chocolate Shake,AC,15.2,Monday,968,sales_2025-02-24.csv,0
+2025-02-24,North,Vanilla Shake,AC,15.2,Monday,948,sales_2025-02-24.csv,0
+2025-02-24,North,Orange Juice,AD,15.2,Monday,1334,sales_2025-02-24.csv,0
+2025-02-24,North,Apple Juice,AD,15.2,Monday,1313,sales_2025-02-24.csv,0
+2025-02-24,North,Mango Juice,AD,15.2,Monday,1267,sales_2025-02-24.csv,0
+2025-02-24,North,Pepsi Max,AE,15.2,Monday,1105,sales_2025-02-24.csv,0
+2025-02-24,North,Cola Zero,AE,15.2,Monday,1285,sales_2025-02-24.csv,0
+2025-02-24,North,Sprite Zero,AE,15.2,Monday,1112,sales_2025-02-24.csv,0
+2025-02-24,North,Kombucha,AF,15.2,Monday,1066,sales_2025-02-24.csv,0
+2025-02-24,North,Coconut Water,AF,15.2,Monday,1126,sales_2025-02-24.csv,0
+2025-02-24,North,Isotonic Drink,AF,15.2,Monday,1086,sales_2025-02-24.csv,0
+2025-02-24,South,Coca-Cola,AA,26.0,Monday,1499,sales_2025-02-24.csv,0
+2025-02-24,South,Fanta,AA,26.0,Monday,1533,sales_2025-02-24.csv,0
+2025-02-24,South,Sprite,AA,26.0,Monday,1511,sales_2025-02-24.csv,0
+2025-02-24,South,Pepsi,AA,26.0,Monday,1525,sales_2025-02-24.csv,0
+2025-02-24,South,Golden Milk,AB,26.0,Monday,857,sales_2025-02-24.csv,0
+2025-02-24,South,Almond Drink,AB,26.0,Monday,876,sales_2025-02-24.csv,0
+2025-02-24,South,Oat Latte,AB,26.0,Monday,841,sales_2025-02-24.csv,0
+2025-02-24,South,Strawberry Shake,AC,26.0,Monday,992,sales_2025-02-24.csv,0
+2025-02-24,South,Chocolate Shake,AC,26.0,Monday,856,sales_2025-02-24.csv,0
+2025-02-24,South,Vanilla Shake,AC,26.0,Monday,1001,sales_2025-02-24.csv,0
+2025-02-24,South,Orange Juice,AD,26.0,Monday,1440,sales_2025-02-24.csv,0
+2025-02-24,South,Apple Juice,AD,26.0,Monday,1422,sales_2025-02-24.csv,0
+2025-02-24,South,Mango Juice,AD,26.0,Monday,1363,sales_2025-02-24.csv,0
+2025-02-24,South,Pepsi Max,AE,26.0,Monday,1125,sales_2025-02-24.csv,0
+2025-02-24,South,Cola Zero,AE,26.0,Monday,1036,sales_2025-02-24.csv,0
+2025-02-24,South,Sprite Zero,AE,26.0,Monday,1149,sales_2025-02-24.csv,0
+2025-02-24,South,Kombucha,AF,26.0,Monday,1048,sales_2025-02-24.csv,0
+2025-02-24,South,Coconut Water,AF,26.0,Monday,1167,sales_2025-02-24.csv,0
+2025-02-24,South,Isotonic Drink,AF,26.0,Monday,1162,sales_2025-02-24.csv,0
+2025-02-24,East,Coca-Cola,AA,18.2,Monday,1341,sales_2025-02-24.csv,0
+2025-02-24,East,Fanta,AA,18.2,Monday,1425,sales_2025-02-24.csv,0
+2025-02-24,East,Sprite,AA,18.2,Monday,1243,sales_2025-02-24.csv,0
+2025-02-24,East,Pepsi,AA,18.2,Monday,1426,sales_2025-02-24.csv,0
+2025-02-24,East,Golden Milk,AB,18.2,Monday,927,sales_2025-02-24.csv,0
+2025-02-24,East,Almond Drink,AB,18.2,Monday,988,sales_2025-02-24.csv,0
+2025-02-24,East,Oat Latte,AB,18.2,Monday,928,sales_2025-02-24.csv,0
+2025-02-24,East,Strawberry Shake,AC,18.2,Monday,1169,sales_2025-02-24.csv,0
+2025-02-24,East,Chocolate Shake,AC,18.2,Monday,572,sales_2025-02-24.csv,1
+2025-02-24,East,Vanilla Shake,AC,18.2,Monday,1083,sales_2025-02-24.csv,0
+2025-02-24,East,Orange Juice,AD,18.2,Monday,1236,sales_2025-02-24.csv,0
+2025-02-24,East,Apple Juice,AD,18.2,Monday,1289,sales_2025-02-24.csv,0
+2025-02-24,East,Mango Juice,AD,18.2,Monday,1350,sales_2025-02-24.csv,0
+2025-02-24,East,Pepsi Max,AE,18.2,Monday,1170,sales_2025-02-24.csv,0
+2025-02-24,East,Cola Zero,AE,18.2,Monday,1272,sales_2025-02-24.csv,0
+2025-02-24,East,Sprite Zero,AE,18.2,Monday,1101,sales_2025-02-24.csv,0
+2025-02-24,East,Kombucha,AF,18.2,Monday,1170,sales_2025-02-24.csv,0
+2025-02-24,East,Coconut Water,AF,18.2,Monday,1062,sales_2025-02-24.csv,0
+2025-02-24,East,Isotonic Drink,AF,18.2,Monday,1031,sales_2025-02-24.csv,0
+2025-02-25,North,Coca-Cola,AA,9.1,Tuesday,1017,sales_2025-02-25.csv,0
+2025-02-25,North,Fanta,AA,9.1,Tuesday,970,sales_2025-02-25.csv,0
+2025-02-25,North,Sprite,AA,9.1,Tuesday,1065,sales_2025-02-25.csv,0
+2025-02-25,North,Pepsi,AA,9.1,Tuesday,969,sales_2025-02-25.csv,0
+2025-02-25,North,Golden Milk,AB,9.1,Tuesday,1064,sales_2025-02-25.csv,0
+2025-02-25,North,Almond Drink,AB,9.1,Tuesday,2207,sales_2025-02-25.csv,1
+2025-02-25,North,Oat Latte,AB,9.1,Tuesday,519,sales_2025-02-25.csv,0
+2025-02-25,North,Strawberry Shake,AC,9.1,Tuesday,1269,sales_2025-02-25.csv,0
+2025-02-25,North,Chocolate Shake,AC,9.1,Tuesday,1416,sales_2025-02-25.csv,0
+2025-02-25,North,Vanilla Shake,AC,9.1,Tuesday,1406,sales_2025-02-25.csv,0
+2025-02-25,North,Orange Juice,AD,9.1,Tuesday,1039,sales_2025-02-25.csv,0
+2025-02-25,North,Apple Juice,AD,9.1,Tuesday,1101,sales_2025-02-25.csv,0
+2025-02-25,North,Mango Juice,AD,9.1,Tuesday,1034,sales_2025-02-25.csv,0
+2025-02-25,North,Pepsi Max,AE,9.1,Tuesday,1414,sales_2025-02-25.csv,1
+2025-02-25,North,Cola Zero,AE,9.1,Tuesday,1240,sales_2025-02-25.csv,0
+2025-02-25,North,Sprite Zero,AE,9.1,Tuesday,1254,sales_2025-02-25.csv,0
+2025-02-25,North,Kombucha,AF,9.1,Tuesday,905,sales_2025-02-25.csv,0
+2025-02-25,North,Coconut Water,AF,9.1,Tuesday,809,sales_2025-02-25.csv,0
+2025-02-25,North,Isotonic Drink,AF,9.1,Tuesday,2007,sales_2025-02-25.csv,1
+2025-02-25,South,Coca-Cola,AA,23.7,Tuesday,1447,sales_2025-02-25.csv,0
+2025-02-25,South,Fanta,AA,23.7,Tuesday,1376,sales_2025-02-25.csv,0
+2025-02-25,South,Sprite,AA,23.7,Tuesday,1329,sales_2025-02-25.csv,0
+2025-02-25,South,Pepsi,AA,23.7,Tuesday,1346,sales_2025-02-25.csv,0
+2025-02-25,South,Golden Milk,AB,23.7,Tuesday,952,sales_2025-02-25.csv,0
+2025-02-25,South,Almond Drink,AB,23.7,Tuesday,1991,sales_2025-02-25.csv,1
+2025-02-25,South,Oat Latte,AB,23.7,Tuesday,977,sales_2025-02-25.csv,0
+2025-02-25,South,Strawberry Shake,AC,23.7,Tuesday,1179,sales_2025-02-25.csv,0
+2025-02-25,South,Chocolate Shake,AC,23.7,Tuesday,1040,sales_2025-02-25.csv,0
+2025-02-25,South,Vanilla Shake,AC,23.7,Tuesday,641,sales_2025-02-25.csv,1
+2025-02-25,South,Orange Juice,AD,23.7,Tuesday,1339,sales_2025-02-25.csv,0
+2025-02-25,South,Apple Juice,AD,23.7,Tuesday,1316,sales_2025-02-25.csv,0
+2025-02-25,South,Mango Juice,AD,23.7,Tuesday,1286,sales_2025-02-25.csv,0
+2025-02-25,South,Pepsi Max,AE,23.7,Tuesday,1160,sales_2025-02-25.csv,0
+2025-02-25,South,Cola Zero,AE,23.7,Tuesday,1121,sales_2025-02-25.csv,0
+2025-02-25,South,Sprite Zero,AE,23.7,Tuesday,407,sales_2025-02-25.csv,1
+2025-02-25,South,Kombucha,AF,23.7,Tuesday,1017,sales_2025-02-25.csv,0
+2025-02-25,South,Coconut Water,AF,23.7,Tuesday,1147,sales_2025-02-25.csv,0
+2025-02-25,South,Isotonic Drink,AF,23.7,Tuesday,1176,sales_2025-02-25.csv,0
+2025-02-25,East,Coca-Cola,AA,16.0,Tuesday,1322,sales_2025-02-25.csv,0
+2025-02-25,East,Fanta,AA,16.0,Tuesday,1250,sales_2025-02-25.csv,0
+2025-02-25,East,Sprite,AA,16.0,Tuesday,1244,sales_2025-02-25.csv,0
+2025-02-25,East,Pepsi,AA,16.0,Tuesday,1235,sales_2025-02-25.csv,0
+2025-02-25,East,Golden Milk,AB,16.0,Tuesday,867,sales_2025-02-25.csv,0
+2025-02-25,East,Almond Drink,AB,16.0,Tuesday,1018,sales_2025-02-25.csv,0
+2025-02-25,East,Oat Latte,AB,16.0,Tuesday,1081,sales_2025-02-25.csv,0
+2025-02-25,East,Strawberry Shake,AC,16.0,Tuesday,1101,sales_2025-02-25.csv,0
+2025-02-25,East,Chocolate Shake,AC,16.0,Tuesday,1209,sales_2025-02-25.csv,0
+2025-02-25,East,Vanilla Shake,AC,16.0,Tuesday,1144,sales_2025-02-25.csv,0
+2025-02-25,East,Orange Juice,AD,16.0,Tuesday,1134,sales_2025-02-25.csv,0
+2025-02-25,East,Apple Juice,AD,16.0,Tuesday,1280,sales_2025-02-25.csv,0
+2025-02-25,East,Mango Juice,AD,16.0,Tuesday,1328,sales_2025-02-25.csv,0
+2025-02-25,East,Pepsi Max,AE,16.0,Tuesday,1114,sales_2025-02-25.csv,0
+2025-02-25,East,Cola Zero,AE,16.0,Tuesday,1185,sales_2025-02-25.csv,0
+2025-02-25,East,Sprite Zero,AE,16.0,Tuesday,1069,sales_2025-02-25.csv,0
+2025-02-25,East,Kombucha,AF,16.0,Tuesday,1022,sales_2025-02-25.csv,0
+2025-02-25,East,Coconut Water,AF,16.0,Tuesday,1059,sales_2025-02-25.csv,0
+2025-02-25,East,Isotonic Drink,AF,16.0,Tuesday,1148,sales_2025-02-25.csv,0
+2025-02-26,North,Coca-Cola,AA,18.7,Wednesday,1697,sales_2025-02-26.csv,1
+2025-02-26,North,Fanta,AA,18.7,Wednesday,1545,sales_2025-02-26.csv,0
+2025-02-26,North,Sprite,AA,18.7,Wednesday,1565,sales_2025-02-26.csv,0
+2025-02-26,North,Pepsi,AA,18.7,Wednesday,1465,sales_2025-02-26.csv,0
+2025-02-26,North,Golden Milk,AB,18.7,Wednesday,759,sales_2025-02-26.csv,0
+2025-02-26,North,Almond Drink,AB,18.7,Wednesday,707,sales_2025-02-26.csv,0
+2025-02-26,North,Oat Latte,AB,18.7,Wednesday,835,sales_2025-02-26.csv,0
+2025-02-26,North,Strawberry Shake,AC,18.7,Wednesday,816,sales_2025-02-26.csv,0
+2025-02-26,North,Chocolate Shake,AC,18.7,Wednesday,788,sales_2025-02-26.csv,1
+2025-02-26,North,Vanilla Shake,AC,18.7,Wednesday,840,sales_2025-02-26.csv,0
+2025-02-26,North,Orange Juice,AD,18.7,Wednesday,1355,sales_2025-02-26.csv,0
+2025-02-26,North,Apple Juice,AD,18.7,Wednesday,1460,sales_2025-02-26.csv,0
+2025-02-26,North,Mango Juice,AD,18.7,Wednesday,1458,sales_2025-02-26.csv,0
+2025-02-26,North,Pepsi Max,AE,18.7,Wednesday,1034,sales_2025-02-26.csv,0
+2025-02-26,North,Cola Zero,AE,18.7,Wednesday,1005,sales_2025-02-26.csv,0
+2025-02-26,North,Sprite Zero,AE,18.7,Wednesday,962,sales_2025-02-26.csv,1
+2025-02-26,North,Kombucha,AF,18.7,Wednesday,1206,sales_2025-02-26.csv,0
+2025-02-26,North,Coconut Water,AF,18.7,Wednesday,1184,sales_2025-02-26.csv,0
+2025-02-26,North,Isotonic Drink,AF,18.7,Wednesday,1200,sales_2025-02-26.csv,0
+2025-02-26,South,Coca-Cola,AA,22.1,Wednesday,1231,sales_2025-02-26.csv,0
+2025-02-26,South,Fanta,AA,22.1,Wednesday,1347,sales_2025-02-26.csv,0
+2025-02-26,South,Sprite,AA,22.1,Wednesday,1204,sales_2025-02-26.csv,0
+2025-02-26,South,Pepsi,AA,22.1,Wednesday,1224,sales_2025-02-26.csv,0
+2025-02-26,South,Golden Milk,AB,22.1,Wednesday,1029,sales_2025-02-26.csv,0
+2025-02-26,South,Almond Drink,AB,22.1,Wednesday,998,sales_2025-02-26.csv,0
+2025-02-26,South,Oat Latte,AB,22.1,Wednesday,834,sales_2025-02-26.csv,0
+2025-02-26,South,Strawberry Shake,AC,22.1,Wednesday,1027,sales_2025-02-26.csv,0
+2025-02-26,South,Chocolate Shake,AC,22.1,Wednesday,1099,sales_2025-02-26.csv,0
+2025-02-26,South,Vanilla Shake,AC,22.1,Wednesday,1209,sales_2025-02-26.csv,0
+2025-02-26,South,Orange Juice,AD,22.1,Wednesday,551,sales_2025-02-26.csv,1
+2025-02-26,South,Apple Juice,AD,22.1,Wednesday,1250,sales_2025-02-26.csv,0
+2025-02-26,South,Mango Juice,AD,22.1,Wednesday,1258,sales_2025-02-26.csv,0
+2025-02-26,South,Pepsi Max,AE,22.1,Wednesday,1100,sales_2025-02-26.csv,0
+2025-02-26,South,Cola Zero,AE,22.1,Wednesday,1210,sales_2025-02-26.csv,0
+2025-02-26,South,Sprite Zero,AE,22.1,Wednesday,1104,sales_2025-02-26.csv,0
+2025-02-26,South,Kombucha,AF,22.1,Wednesday,1094,sales_2025-02-26.csv,0
+2025-02-26,South,Coconut Water,AF,22.1,Wednesday,992,sales_2025-02-26.csv,0
+2025-02-26,South,Isotonic Drink,AF,22.1,Wednesday,1047,sales_2025-02-26.csv,0
+2025-02-26,East,Coca-Cola,AA,11.4,Wednesday,870,sales_2025-02-26.csv,0
+2025-02-26,East,Fanta,AA,11.4,Wednesday,1040,sales_2025-02-26.csv,0
+2025-02-26,East,Sprite,AA,11.4,Wednesday,1012,sales_2025-02-26.csv,0
+2025-02-26,East,Pepsi,AA,11.4,Wednesday,879,sales_2025-02-26.csv,1
+2025-02-26,East,Golden Milk,AB,11.4,Wednesday,1208,sales_2025-02-26.csv,1
+2025-02-26,East,Almond Drink,AB,11.4,Wednesday,1042,sales_2025-02-26.csv,0
+2025-02-26,East,Oat Latte,AB,11.4,Wednesday,1119,sales_2025-02-26.csv,0
+2025-02-26,East,Strawberry Shake,AC,11.4,Wednesday,1346,sales_2025-02-26.csv,0
+2025-02-26,East,Chocolate Shake,AC,11.4,Wednesday,1315,sales_2025-02-26.csv,0
+2025-02-26,East,Vanilla Shake,AC,11.4,Wednesday,1462,sales_2025-02-26.csv,0
+2025-02-26,East,Orange Juice,AD,11.4,Wednesday,1144,sales_2025-02-26.csv,0
+2025-02-26,East,Apple Juice,AD,11.4,Wednesday,1038,sales_2025-02-26.csv,0
+2025-02-26,East,Mango Juice,AD,11.4,Wednesday,1133,sales_2025-02-26.csv,0
+2025-02-26,East,Pepsi Max,AE,11.4,Wednesday,1242,sales_2025-02-26.csv,0
+2025-02-26,East,Cola Zero,AE,11.4,Wednesday,1270,sales_2025-02-26.csv,0
+2025-02-26,East,Sprite Zero,AE,11.4,Wednesday,1271,sales_2025-02-26.csv,0
+2025-02-26,East,Kombucha,AF,11.4,Wednesday,829,sales_2025-02-26.csv,0
+2025-02-26,East,Coconut Water,AF,11.4,Wednesday,945,sales_2025-02-26.csv,0
+2025-02-26,East,Isotonic Drink,AF,11.4,Wednesday,960,sales_2025-02-26.csv,0
+2025-02-27,North,Coca-Cola,AA,13.5,Thursday,1152,sales_2025-02-27.csv,0
+2025-02-27,North,Fanta,AA,13.5,Thursday,1296,sales_2025-02-27.csv,0
+2025-02-27,North,Sprite,AA,13.5,Thursday,1164,sales_2025-02-27.csv,0
+2025-02-27,North,Pepsi,AA,13.5,Thursday,1213,sales_2025-02-27.csv,0
+2025-02-27,North,Golden Milk,AB,13.5,Thursday,974,sales_2025-02-27.csv,0
+2025-02-27,North,Almond Drink,AB,13.5,Thursday,911,sales_2025-02-27.csv,0
+2025-02-27,North,Oat Latte,AB,13.5,Thursday,983,sales_2025-02-27.csv,0
+2025-02-27,North,Strawberry Shake,AC,13.5,Thursday,1109,sales_2025-02-27.csv,0
+2025-02-27,North,Chocolate Shake,AC,13.5,Thursday,1011,sales_2025-02-27.csv,0
+2025-02-27,North,Vanilla Shake,AC,13.5,Thursday,1137,sales_2025-02-27.csv,0
+2025-02-27,North,Orange Juice,AD,13.5,Thursday,1271,sales_2025-02-27.csv,0
+2025-02-27,North,Apple Juice,AD,13.5,Thursday,1301,sales_2025-02-27.csv,0
+2025-02-27,North,Mango Juice,AD,13.5,Thursday,1204,sales_2025-02-27.csv,0
+2025-02-27,North,Pepsi Max,AE,13.5,Thursday,1156,sales_2025-02-27.csv,0
+2025-02-27,North,Cola Zero,AE,13.5,Thursday,1055,sales_2025-02-27.csv,0
+2025-02-27,North,Sprite Zero,AE,13.5,Thursday,1298,sales_2025-02-27.csv,0
+2025-02-27,North,Kombucha,AF,13.5,Thursday,1143,sales_2025-02-27.csv,0
+2025-02-27,North,Coconut Water,AF,13.5,Thursday,1035,sales_2025-02-27.csv,0
+2025-02-27,North,Isotonic Drink,AF,13.5,Thursday,1029,sales_2025-02-27.csv,0
+2025-02-27,South,Coca-Cola,AA,14.2,Thursday,844,sales_2025-02-27.csv,0
+2025-02-27,South,Fanta,AA,14.2,Thursday,811,sales_2025-02-27.csv,0
+2025-02-27,South,Sprite,AA,14.2,Thursday,829,sales_2025-02-27.csv,0
+2025-02-27,South,Pepsi,AA,14.2,Thursday,744,sales_2025-02-27.csv,1
+2025-02-27,South,Golden Milk,AB,14.2,Thursday,1181,sales_2025-02-27.csv,0
+2025-02-27,South,Almond Drink,AB,14.2,Thursday,1128,sales_2025-02-27.csv,0
+2025-02-27,South,Oat Latte,AB,14.2,Thursday,2531,sales_2025-02-27.csv,1
+2025-02-27,South,Strawberry Shake,AC,14.2,Thursday,1628,sales_2025-02-27.csv,1
+2025-02-27,South,Chocolate Shake,AC,14.2,Thursday,1619,sales_2025-02-27.csv,1
+2025-02-27,South,Vanilla Shake,AC,14.2,Thursday,1553,sales_2025-02-27.csv,1
+2025-02-27,South,Orange Juice,AD,14.2,Thursday,875,sales_2025-02-27.csv,0
+2025-02-27,South,Apple Juice,AD,14.2,Thursday,824,sales_2025-02-27.csv,1
+2025-02-27,South,Mango Juice,AD,14.2,Thursday,849,sales_2025-02-27.csv,0
+2025-02-27,South,Pepsi Max,AE,14.2,Thursday,1359,sales_2025-02-27.csv,0
+2025-02-27,South,Cola Zero,AE,14.2,Thursday,1306,sales_2025-02-27.csv,0
+2025-02-27,South,Sprite Zero,AE,14.2,Thursday,1441,sales_2025-02-27.csv,1
+2025-02-27,South,Kombucha,AF,14.2,Thursday,2150,sales_2025-02-27.csv,0
+2025-02-27,South,Coconut Water,AF,14.2,Thursday,788,sales_2025-02-27.csv,0
+2025-02-27,South,Isotonic Drink,AF,14.2,Thursday,745,sales_2025-02-27.csv,1
+2025-02-27,East,Coca-Cola,AA,15.4,Thursday,1279,sales_2025-02-27.csv,0
+2025-02-27,East,Fanta,AA,15.4,Thursday,1167,sales_2025-02-27.csv,0
+2025-02-27,East,Sprite,AA,15.4,Thursday,1242,sales_2025-02-27.csv,0
+2025-02-27,East,Pepsi,AA,15.4,Thursday,1164,sales_2025-02-27.csv,0
+2025-02-27,East,Golden Milk,AB,15.4,Thursday,1022,sales_2025-02-27.csv,0
+2025-02-27,East,Almond Drink,AB,15.4,Thursday,1035,sales_2025-02-27.csv,0
+2025-02-27,East,Oat Latte,AB,15.4,Thursday,1067,sales_2025-02-27.csv,0
+2025-02-27,East,Strawberry Shake,AC,15.4,Thursday,1280,sales_2025-02-27.csv,0
+2025-02-27,East,Chocolate Shake,AC,15.4,Thursday,1272,sales_2025-02-27.csv,0
+2025-02-27,East,Vanilla Shake,AC,15.4,Thursday,1143,sales_2025-02-27.csv,0
+2025-02-27,East,Orange Juice,AD,15.4,Thursday,1176,sales_2025-02-27.csv,0
+2025-02-27,East,Apple Juice,AD,15.4,Thursday,1104,sales_2025-02-27.csv,0
+2025-02-27,East,Mango Juice,AD,15.4,Thursday,1170,sales_2025-02-27.csv,0
+2025-02-27,East,Pepsi Max,AE,15.4,Thursday,1184,sales_2025-02-27.csv,0
+2025-02-27,East,Cola Zero,AE,15.4,Thursday,1154,sales_2025-02-27.csv,0
+2025-02-27,East,Sprite Zero,AE,15.4,Thursday,1147,sales_2025-02-27.csv,0
+2025-02-27,East,Kombucha,AF,15.4,Thursday,1082,sales_2025-02-27.csv,0
+2025-02-27,East,Coconut Water,AF,15.4,Thursday,1074,sales_2025-02-27.csv,0
+2025-02-27,East,Isotonic Drink,AF,15.4,Thursday,1038,sales_2025-02-27.csv,0
+2025-02-28,North,Coca-Cola,AA,10.2,Friday,1086,sales_2025-02-28.csv,0
+2025-02-28,North,Fanta,AA,10.2,Friday,1045,sales_2025-02-28.csv,0
+2025-02-28,North,Sprite,AA,10.2,Friday,1164,sales_2025-02-28.csv,0
+2025-02-28,North,Pepsi,AA,10.2,Friday,946,sales_2025-02-28.csv,0
+2025-02-28,North,Golden Milk,AB,10.2,Friday,1025,sales_2025-02-28.csv,0
+2025-02-28,North,Almond Drink,AB,10.2,Friday,1023,sales_2025-02-28.csv,0
+2025-02-28,North,Oat Latte,AB,10.2,Friday,1031,sales_2025-02-28.csv,0
+2025-02-28,North,Strawberry Shake,AC,10.2,Friday,1357,sales_2025-02-28.csv,0
+2025-02-28,North,Chocolate Shake,AC,10.2,Friday,1125,sales_2025-02-28.csv,0
+2025-02-28,North,Vanilla Shake,AC,10.2,Friday,1275,sales_2025-02-28.csv,0
+2025-02-28,North,Orange Juice,AD,10.2,Friday,1158,sales_2025-02-28.csv,0
+2025-02-28,North,Apple Juice,AD,10.2,Friday,1167,sales_2025-02-28.csv,0
+2025-02-28,North,Mango Juice,AD,10.2,Friday,1060,sales_2025-02-28.csv,0
+2025-02-28,North,Pepsi Max,AE,10.2,Friday,1178,sales_2025-02-28.csv,0
+2025-02-28,North,Cola Zero,AE,10.2,Friday,1250,sales_2025-02-28.csv,0
+2025-02-28,North,Sprite Zero,AE,10.2,Friday,1237,sales_2025-02-28.csv,0
+2025-02-28,North,Kombucha,AF,10.2,Friday,960,sales_2025-02-28.csv,0
+2025-02-28,North,Coconut Water,AF,10.2,Friday,689,sales_2025-02-28.csv,1
+2025-02-28,North,Isotonic Drink,AF,10.2,Friday,876,sales_2025-02-28.csv,0
+2025-02-28,South,Coca-Cola,AA,20.4,Friday,1189,sales_2025-02-28.csv,0
+2025-02-28,South,Fanta,AA,20.4,Friday,1043,sales_2025-02-28.csv,0
+2025-02-28,South,Sprite,AA,20.4,Friday,1071,sales_2025-02-28.csv,0
+2025-02-28,South,Pepsi,AA,20.4,Friday,1133,sales_2025-02-28.csv,0
+2025-02-28,South,Golden Milk,AB,20.4,Friday,938,sales_2025-02-28.csv,0
+2025-02-28,South,Almond Drink,AB,20.4,Friday,1073,sales_2025-02-28.csv,0
+2025-02-28,South,Oat Latte,AB,20.4,Friday,1001,sales_2025-02-28.csv,0
+2025-02-28,South,Strawberry Shake,AC,20.4,Friday,1358,sales_2025-02-28.csv,0
+2025-02-28,South,Chocolate Shake,AC,20.4,Friday,1186,sales_2025-02-28.csv,0
+2025-02-28,South,Vanilla Shake,AC,20.4,Friday,1190,sales_2025-02-28.csv,0
+2025-02-28,South,Orange Juice,AD,20.4,Friday,1202,sales_2025-02-28.csv,0
+2025-02-28,South,Apple Juice,AD,20.4,Friday,1100,sales_2025-02-28.csv,0
+2025-02-28,South,Mango Juice,AD,20.4,Friday,1252,sales_2025-02-28.csv,0
+2025-02-28,South,Pepsi Max,AE,20.4,Friday,1236,sales_2025-02-28.csv,0
+2025-02-28,South,Cola Zero,AE,20.4,Friday,1181,sales_2025-02-28.csv,0
+2025-02-28,South,Sprite Zero,AE,20.4,Friday,1191,sales_2025-02-28.csv,0
+2025-02-28,South,Kombucha,AF,20.4,Friday,1185,sales_2025-02-28.csv,0
+2025-02-28,South,Coconut Water,AF,20.4,Friday,1019,sales_2025-02-28.csv,0
+2025-02-28,South,Isotonic Drink,AF,20.4,Friday,996,sales_2025-02-28.csv,0
+2025-02-28,East,Coca-Cola,AA,16.6,Friday,1349,sales_2025-02-28.csv,0
+2025-02-28,East,Fanta,AA,16.6,Friday,1170,sales_2025-02-28.csv,0
+2025-02-28,East,Sprite,AA,16.6,Friday,1263,sales_2025-02-28.csv,0
+2025-02-28,East,Pepsi,AA,16.6,Friday,1078,sales_2025-02-28.csv,0
+2025-02-28,East,Golden Milk,AB,16.6,Friday,925,sales_2025-02-28.csv,0
+2025-02-28,East,Almond Drink,AB,16.6,Friday,1021,sales_2025-02-28.csv,0
+2025-02-28,East,Oat Latte,AB,16.6,Friday,2012,sales_2025-02-28.csv,1
+2025-02-28,East,Strawberry Shake,AC,16.6,Friday,1162,sales_2025-02-28.csv,0
+2025-02-28,East,Chocolate Shake,AC,16.6,Friday,1165,sales_2025-02-28.csv,0
+2025-02-28,East,Vanilla Shake,AC,16.6,Friday,1000,sales_2025-02-28.csv,0
+2025-02-28,East,Orange Juice,AD,16.6,Friday,2412,sales_2025-02-28.csv,1
+2025-02-28,East,Apple Juice,AD,16.6,Friday,1337,sales_2025-02-28.csv,0
+2025-02-28,East,Mango Juice,AD,16.6,Friday,1197,sales_2025-02-28.csv,0
+2025-02-28,East,Pepsi Max,AE,16.6,Friday,1148,sales_2025-02-28.csv,0
+2025-02-28,East,Cola Zero,AE,16.6,Friday,1102,sales_2025-02-28.csv,0
+2025-02-28,East,Sprite Zero,AE,16.6,Friday,1093,sales_2025-02-28.csv,0
+2025-02-28,East,Kombucha,AF,16.6,Friday,1007,sales_2025-02-28.csv,0
+2025-02-28,East,Coconut Water,AF,16.6,Friday,994,sales_2025-02-28.csv,0
+2025-02-28,East,Isotonic Drink,AF,16.6,Friday,1107,sales_2025-02-28.csv,0

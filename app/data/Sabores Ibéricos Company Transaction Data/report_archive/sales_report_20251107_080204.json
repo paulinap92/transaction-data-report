@@ -1,0 +1,61 @@
+{
+    "region_report_mean": {
+        "East": 1178.82,
+        "North": 1138.05,
+        "South": 1148.47
+    },
+    "beverage_report_total": {
+        "Carbonated Drink": 469352,
+        "Diet Drink": 325426,
+        "Fruit Juice": 353453,
+        "Functional Beverage": 298232,
+        "Milkshake": 314412,
+        "Plant-Based Drink": 280211
+    },
+    "beverage_report_mean": {
+        "Carbonated Drink": 1261.7,
+        "Diet Drink": 1166.4,
+        "Fruit Juice": 1266.86,
+        "Functional Beverage": 1068.93,
+        "Milkshake": 1126.92,
+        "Plant-Based Drink": 1004.34
+    },
+    "today_anomalies": {
+        "total_anomalies": 3,
+        "records": [
+            {
+                "Date": "2025-03-04",
+                "Region": "North",
+                "Product": "Coconut Water",
+                "Product Category": "AF",
+                "Temperature": 11.0,
+                "DayOfWeek": "Tuesday",
+                "Sales": 675,
+                "Product Category Mapped": "Functional Beverage",
+                "is_anomaly": 1
+            },
+            {
+                "Date": "2025-03-04",
+                "Region": "East",
+                "Product": "Oat Latte",
+                "Product Category": "AB",
+                "Temperature": 17.3,
+                "DayOfWeek": "Tuesday",
+                "Sales": 2050,
+                "Product Category Mapped": "Plant-Based Drink",
+                "is_anomaly": 1
+            },
+            {
+                "Date": "2025-03-04",
+                "Region": "East",
+                "Product": "Orange Juice",
+                "Product Category": "AD",
+                "Temperature": 17.3,
+                "DayOfWeek": "Tuesday",
+                "Sales": 2380,
+                "Product Category Mapped": "Fruit Juice",
+                "is_anomaly": 1
+            }
+        ]
+    }
+}
