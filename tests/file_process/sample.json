@@ -1,0 +1,19 @@
+{
+    "region_report_mean": {
+        "East": 125.0,
+        "North": 300.0,
+        "West": 200.0
+    },
+    "category_report": {
+        "A": 100,
+        "B": 200,
+        "C": 150,
+        "E": 300
+    },
+    "category_report_mean": {
+        "A": 100.0,
+        "B": 200.0,
+        "C": 150.0,
+        "E": 300.0
+    }
+}
