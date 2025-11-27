@@ -1,4 +1,4 @@
-# 📊 XYZ Sales Monitoring System  
+# 📊 Sabores Ibéricos Sales Monitoring System  
 ### Real-Time Sales Analytics • ML-Based Anomaly Detection • Automated Reporting • Dockerized Architecture
 
 ---
@@ -14,7 +14,7 @@
 | **Email Delivery** | ![Flask-Mail](https://img.shields.io/badge/Flask--Mail-active-green)                                                                      |
 | **Networking** | ![NGINX](https://img.shields.io/badge/NGINX-Reverse%20Proxy-green?logo=nginx)                                                             |
 | **Deployment** | ![Docker](https://img.shields.io/badge/Docker-Containerized-blue?logo=docker)                                                             |
-| **Testing** | ![pytest](https://img.shields.io/badge/PyTest-7.4-green?logo=pytest) ![coverage](https://img.shields.io/badge/Coverage-95%25-brightgreen) |
+| **Testing** | ![pytest](https://img.shields.io/badge/PyTest-green?logo=pytest) ![coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen) |
 
 ---
 
