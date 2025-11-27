@@ -7,9 +7,9 @@
 
 | Category | Technologies                                                                                                                              |
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python) ![Flask](https://img.shields.io/badge/Flask-2.3-black?logo=flask)    |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![Flask](https://img.shields.io/badge/Flask-black?logo=flask)    |
 | **Task Scheduling** | ![APScheduler](https://img.shields.io/badge/APScheduler-active-blue)                                                                      |
-| **Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-2.0-purple?logo=pandas)                                                                     |
+| **Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas)                                                                     |
 | **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/IsolationForest-AnomalyDetection-orange?logo=scikitlearn)                                    |
 | **Email Delivery** | ![Flask-Mail](https://img.shields.io/badge/Flask--Mail-active-green)                                                                      |
 | **Networking** | ![NGINX](https://img.shields.io/badge/NGINX-Reverse%20Proxy-green?logo=nginx)                                                             |
