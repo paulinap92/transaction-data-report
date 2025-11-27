@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  # ===================================================================================
+  # [ APLIKACJA WEBOWA ]
+  # ===================================================================================
+  transaction_data_report:
+    restart: always
+    build:
+      context: . # Ścieżka do folderu, gdzie znajduje się Dockerfile i main.py
+      dockerfile: Dockerfile
+    command: gunicorn --bind 0.0.0.0:8000 --workers 1 'main:create_app()' --reload
+    volumes:
+      - ./:/webapp  # Montowanie całego folderu aplikacji
+    working_dir: /webapp
+    ports:
+      - "8000:8000"
+    networks:
+      km-flask:
+        aliases:
+          - flask-app
+
+  # ===================================================================================
+  # KONFIGURACJA NGINX
+  # ===================================================================================
+  transaction_data_report_nginx:
+    restart: always
+    image: nginx:latest
+    volumes:
+      - ./default.conf:/etc/nginx/conf.d/default.conf  # Plik konfiguracyjny Nginx
+    ports:
+      - '80:80'
+    depends_on:
+      - transaction_data_report
+    networks:
+      - km-flask
+
+networks:
+  km-flask:
