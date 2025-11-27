@@ -1,2 +1,84 @@
 __pycache__/
 *.pyc
+# ============================================
+# PYTHON GENERAL
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+.VirtualEnv/
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# ============================================
+# FLASK / APP
+# ============================================
+instance/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+*.tmp
+
+# Upload folders
+uploads/
+media/
+
+# ============================================
+# TESTING / COVERAGE
+# (htmlcov is ALLOWED)
+# ============================================
+.coverage
+.coverage.*
+coverage.xml
+pytest_cache/
+.cache/
+
+# allow htmlcov explicitly
+!htmlcov/
+
+# ============================================
+# JUPYTER
+# ============================================
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# ============================================
+# EDITORS / IDE
+# ============================================
+.vscode/
+.idea/
+
+# ============================================
+# DOCKER
+# ============================================
+*.pid
+*.seed
+*.pid.lock
+**/docker-cache/
+
+# ============================================
+# GENERAL OS TRASH
+# ============================================
+.DS_Store
+Thumbs.db

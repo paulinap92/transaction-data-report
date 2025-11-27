@@ -1,0 +1,13 @@
+{
+    "region_report_mean": {
+        "East": 1190.67,
+        "North": 1215.13,
+        "South": 1192.8
+    },
+    "beverage_report_total": {},
+    "beverage_report_mean": {},
+    "today_anomalies": {
+        "total_anomalies": 0,
+        "records": []
+    }
+}

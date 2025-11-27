@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+pytest-cov = "*"
+flask = "*"
+gunicorn = "*"
+python-dotenv = "*"
+flask-mail = "*"
+scheduler = "*"
+flask-apscheduler = "*"
+matplotlib = "*"
+scikit-learn = "*"
+numpy = "*"
+seaborn = "*"
+joblib = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
+python_full_version = "3.12.3"
