@@ -20,7 +20,7 @@
 
 # 🚀 Overview
 
-The **XYZ Sales Monitoring System** provides automated, real-time monitoring and analysis of CSV-based sales files.
+The **Sabores Ibéricos Sales Monitoring System** provides automated, real-time monitoring and analysis of CSV-based sales files.
 
 Features include:
 
@@ -266,16 +266,6 @@ And the system will:
 - update the HTML/JSON endpoints  
 - optionally send email  
 - archive previous reports  
-
----
-
-# 🧭 Future Enhancements
-
-- Streamlit / Dash dashboard  
-- MLflow model versioning  
-- Kafka ingestion stream  
-- Grafana metrics  
-- Historical anomaly visualizations  
 
 ---
 
